@@ -1,0 +1,8 @@
+PECD-country-demand_national_estimates-2030.parquet filter=lfs diff=lfs merge=lfs -text
+PECD_EERA2021_ROR_2030_country_gen.parquet filter=lfs diff=lfs merge=lfs -text
+PECD_EERA2021_reservoir_pumping_2030_country_inflow.parquet filter=lfs diff=lfs merge=lfs -text
+PECD-2021.3-country-LFSolarPV-2030.parquet filter=lfs diff=lfs merge=lfs -text
+PECD-2021.3-country-Offshore-2030.parquet filter=lfs diff=lfs merge=lfs -text
+PECD-2021.3-country-Onshore-2030.parquet filter=lfs diff=lfs merge=lfs -text
+PECD-country-demand_national_estimates-2025.parquet filter=lfs diff=lfs merge=lfs -text
+PECD-country-demand_national_estimates-2028.parquet filter=lfs diff=lfs merge=lfs -text

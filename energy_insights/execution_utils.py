@@ -1,0 +1,235 @@
+""" Shared code for execution and notebooks. """
+
+import os
+import warnings
+from functools import cache
+from pathlib import Path
+from typing import Optional, Union
+
+import matplotlib
+import pandas as pd
+
+from .country_grid import CountryGrid
+from .country_grid_stats import CountryGridStats
+from .grid_optimization import CountryProblem, GridOptimization, grids_from_problems
+from .grid_plot_utils import Keys
+from .heat_demand_estimator import HeatDemandEstimator
+from .hourly_data_extrapolator import HourlyDataExtrapolator
+from .params_library import basic_source, flexible_source, storage
+from .params_library.installed import get_installed_gw
+from .params_library.interconnectors import get_interconnectors
+from .params_utils import get_country_aggregate, get_country_or_aggregate, merge_config_into_scenario
+from .plot_strings import get_grid_strings
+from .plot_utils import get_scenario_out_dir, get_analysis_out_dir
+from .solver_util import Solver, get_solver_by_name
+from .sources.basic_source import get_basic_sources
+from .sources.flexible_source import get_flexible_sources
+from .sources.storage import get_storage
+from .temperatures_loader import TemperaturesLoader
+from .yearly_filter import YearlyFilter
+from .yearly_grid_plot import YearlyGridPlot
+
+
+# Use a non-interactive Matplotlib backend to prevent memory leaks
+# when running from Jupyter notebook, see the documentation for details
+# https://matplotlib.org/stable/users/faq.html#work-with-threads
+# and https://matplotlib.org/stable/users/explain/figure/backends.html#selecting-a-backend
+matplotlib.use("agg")
+
+
+@cache
+def get_extrapolator(data_path: Union[str, Path]) -> HourlyDataExtrapolator:
+    """ Return one shared extrapolator (for loading the params as well as for building the model). """
+    return HourlyDataExtrapolator(data_path=data_path)
+
+
+def optimize_runs(runs: list[dict],
+                  extrapolator: Optional[HourlyDataExtrapolator] = None,
+                  root_dir="..") -> None:
+    data_path = os.path.join(root_dir, "data")
+
+    heat_estimator = HeatDemandEstimator(data_path=data_path)
+    temperatures_loader = TemperaturesLoader(data_path=data_path)
+
+    if not extrapolator:
+        extrapolator = get_extrapolator(data_path)
+
+    for run_number, run in enumerate(runs):
+        config = run["config"]
+        print(f"\nRun number #{run_number}: {config['analysis_name']}")
+
+        complete_stats_per_scenario = []
+        filtered_stats_per_scenario = []
+        analysis_name = config.get("analysis_name")
+        analysis_out_dir = get_analysis_out_dir(analysis_name, root_dir=root_dir)
+        if analysis_name is None:
+            analysis_name = "analysis"
+
+        for scenario in run["scenarios"]:
+            print(f"\nRunning scenario ‘{scenario['name']}’")
+
+            params = merge_config_into_scenario(config, scenario)
+            # Expand params from a library.
+            if "year" in params:
+                common_years = entsoe_years = [params["year"]]
+                pecd_years: list[Optional[int]] = [None]
+                use_pecd = False
+            else:
+                common_years = params["common_years"]
+                entsoe_years = params["entsoe_years"]
+                assert len(common_years) == len(entsoe_years) and len(common_years) > 0
+                pecd_years: list[Optional[int]] = params.get("pecd_years", [])
+                if len(pecd_years) == 0:
+                    use_pecd = False
+                    pecd_years = [None] * len(common_years)
+                else:
+                    use_pecd = True
+                assert len(pecd_years) == len(common_years)
+
+            # Use PECD by default if pecd years are provided.
+            load_hydro_from_pecd = params.get('load_hydro_from_pecd', use_pecd)
+            load_demand_from_pecd = params.get('load_demand_from_pecd', use_pecd)
+
+            if len(params["countries"]) > 1 and 'interconnectors' not in params:
+                warnings.warn(f"Did you forget to specify interconnectors?")
+            interconnectors = get_interconnectors(
+                params.get('interconnectors', {}),
+                {get_country_or_aggregate(c, c_params) for c, c_params in params["countries"].items()})
+            input_costs = params.get('input_costs', "current")
+            name = "grid-optimization-{}".format(scenario["name"])
+            optimize_capex = params.get('optimize_capex', False)
+            optimize_ramp_up_costs = params.get('optimize_ramp_up_costs', False)
+            optimize_heat = params.get('optimize_heat', False)
+            preferred_solver: Optional[Solver] = get_solver_by_name(params.get("solver", ""))
+            solver_timeout_minutes: Optional[int] = params.get("solver_timeout_minutes", None)
+            solver_shift_ipm_termination_by_orders: int = params.get(
+                "solver_shift_ipm_termination_by_orders", 0)
+
+            load_previous_solution = params.get('load_previous_solution', False)
+            store_model = params.get('store_model', True)
+
+            problems: dict[Region, CountryProblem] = {}
+            aggregates: dict[AggregateRegion, dict[Zone, CountryProblem]] = {}
+            load_factors_separate: dict[Region, dict] = {}
+            installed_separate: dict[Region, dict] = {}
+            for country, country_params in params["countries"].items():
+                load_factors = country_params["load_factors"]
+                load_factors_separate[country] = load_factors
+
+                # Types of sources.
+                basic_sources = get_basic_sources(country_params["basic_sources"])
+                flexible_sources = get_flexible_sources(
+                    country_params["flexible_sources"], input_costs)
+                storage = get_storage(country_params['storage'])
+                pecd_normalization_factors = country_params.get("pecd_normalization_factors", {})
+                if "installed_gw" in country_params:
+                    installed_map_gw = country_params["installed_gw"]
+                else:
+                    # TODO: Fix default installed params for multiple years.
+                    installed_map_gw = get_installed_gw(country, common_years[0])
+
+                installed_separate[country] = {
+                    key: source.capacity_mw for key, source in basic_sources.items()
+                }
+
+                data = pd.DataFrame()
+                for (entsoe_year, pecd_year, common_year) in zip(entsoe_years, pecd_years, common_years):
+                    one_year_data = extrapolator.extrapolate_hourly_country_data(
+                        country, entsoe_year, pecd_year, common_year, load_factors, basic_sources,
+                        installed_map_gw, pecd_normalization_factors, load_hydro_from_pecd,
+                        load_demand_from_pecd)
+                    if data.empty:
+                        data = one_year_data
+                    else:
+                        data = pd.concat([data, one_year_data])
+
+                # TODO: Fix heat for multiple years.
+                heat_demand: bool = country_params.get("heat_demand", False)
+                if heat_demand:
+                    temperatures_profile = country_params["temperatures"]
+                    hourly_temperatures = temperatures_loader.load_temperatures(
+                        temperatures_profile, common_years[0])
+                    heat_demand_MW = heat_estimator.get_heat_demand_MW(
+                        hourly_temperatures, country, common_years[0])
+                    data = data.join(heat_demand_MW.rename(Keys.HEAT_DEMAND))
+                else:
+                    data[Keys.HEAT_DEMAND] = 0
+
+                # Make the sources more expensive according to normalization factors.
+                for basic_type, factor in pecd_normalization_factors.items():
+                    basic_sources[basic_type].economics.overnight_costs_per_kw_eur *= factor
+                    basic_sources[basic_type].economics.fixed_o_m_costs_per_kw_eur *= factor
+
+                grid = CountryGrid(country, data, basic_sources, flexible_sources, storage,
+                                   len(common_years))
+                problem = CountryProblem(grid, optimize_capex,
+                                         optimize_ramp_up_costs, optimize_heat)
+
+                aggregate = get_country_aggregate(country_params)
+                if aggregate is not None:
+                    aggregates.setdefault(aggregate, {})
+                    aggregates[aggregate][country] = problem
+                else:
+                    problems[country] = problem
+
+            for aggregate_country, countries in aggregates.items():
+                aggregate_problem = sum(countries.values())
+                assert isinstance(aggregate_problem,
+                                  CountryProblem), "there must be at least one country to aggregate"
+                aggregate_problem.grid.country = aggregate_country
+                problems[aggregate_country] = aggregate_problem
+
+            title_format, subtitle_format, capacities_factors_str, name = \
+                get_grid_strings(params, load_factors_separate, installed_separate)
+            out_dir = get_scenario_out_dir(params["name"], params.get("analysis_name", None),
+                                           root_dir=root_dir)
+            include_transmission_loss_in_price = params.get(
+                "include_transmission_loss_in_price", False)
+
+            optim = GridOptimization(
+                problems=problems, interconnectors=interconnectors, out_dir=out_dir,
+                include_transmission_loss_in_price=include_transmission_loss_in_price,
+                load_previous_solution=load_previous_solution, store_model=store_model,
+                preferred_solver=preferred_solver, solver_timeout_minutes=solver_timeout_minutes,
+                solver_shift_ipm_termination_by_orders=solver_shift_ipm_termination_by_orders)
+            success = optim.optimize()
+
+            if success:
+                yearly_filter = YearlyFilter.build(params["filter"])
+                output = params["output"]
+                compute_interconnector_capex = params.get("compute_interconnector_capex", False)
+
+                for country, problem in problems.items():
+                    complete_stats_per_scenario += CountryGridStats(
+                        country, problem.grid,
+                        interconnectors if compute_interconnector_capex else None,
+                        params["name"]).get_stats_for_logging()
+
+                only_aggregate: bool = output.get('regions', 'aggregate') == 'aggregate'
+                grids_to_plot = CountryGrid.aggregate_grids(
+                    CountryGrid.filter_grids(grids_from_problems(problems), yearly_filter), only_aggregate)
+
+                stats_to_plot: dict[Region, CountryGridStats] = {}
+                for country, grid in grids_to_plot.items():
+                    stat = CountryGridStats(
+                        country, grid,
+                        interconnectors if compute_interconnector_capex else None,
+                        params["name"], import_ppa_price=params.get("import_ppa_price"))
+                    stats_to_plot[country] = stat
+                    filtered_stats_per_scenario += stat.get_stats_for_logging()
+
+                # Print out the state so far after each scenario (to make sure no data is lost if kernel runs out of memory).
+                complete_analysis_df = pd.DataFrame(complete_stats_per_scenario)
+                complete_analysis_df.to_csv(analysis_out_dir / f"{analysis_name}-complete.csv")
+                complete_analysis_df.pivot(index=['name', 'region', 'season', 'stat'],
+                                           columns='source', values='val').to_csv(
+                    analysis_out_dir / f"{analysis_name}-complete-pivot.csv")
+                filtered_analysis_df = pd.DataFrame(filtered_stats_per_scenario)
+                filtered_analysis_df.to_csv(analysis_out_dir / f"{analysis_name}.csv")
+                filtered_analysis_df.pivot(index=['name', 'region', 'season', 'stat'],
+                                           columns='source', values='val').to_csv(
+                    analysis_out_dir / f"{analysis_name}-pivot.csv")
+
+                plot = YearlyGridPlot(stats_to_plot, common_year, yearly_filter, output, title_format,
+                                      subtitle_format, capacities_factors_str, out_dir, name)
+                plot.print_graph()
