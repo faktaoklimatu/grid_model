@@ -190,7 +190,7 @@ if __name__ == "__main__":
 
                     args = [
                         "python",
-                        "run_nuclear_single.py",
+                        "run_analysis_single.py",
                         context,
                         str(target_year_europe),
                         str(target_year_cz),
