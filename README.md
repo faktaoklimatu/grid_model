@@ -5,7 +5,8 @@
 Welcome to the repository of source code for the model used in the publication
 https://faktaoklimatu.cz/studie/2024-cesty-k-ciste-a-levne-elektrine-2050.
 
-Relevant SVG files and summary CSV files are in the folder `publication`.
+Relevant summary CSV files, R notebook to produce graphs and output SVG files are in the folder `publication`.
+
 Raw CSV output data is on Google Drive:
 https://drive.google.com/drive/folders/1DqkC8tUl0DVa_GXwE9dhbjdMqhPspe9f?usp=sharing
  - data for CZ for the reference scenario,
