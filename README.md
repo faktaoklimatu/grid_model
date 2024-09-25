@@ -5,7 +5,13 @@
 Welcome to the repository of source code for the model used in the publication
 https://faktaoklimatu.cz/studie/2024-vyroba-elektriny-v-cesku-bez-uhli.
 
-The relevant source code and outputs will be published here shortly.
+The directories are structured as follows:
+
+- `data/` contains the input data for the model from external sources, note that the data files are licensed under different terms from the rest of the repository
+- `energy_insights/` contains the Python modules that make up the grid model
+- `publication/figures/` contains raw SVGs of the charts that appear in the study and their underlying data in CSV
+- `publication/model-runs/` contains summary statistics of the individual model runs which are used to generate some of the figures
+- `sandbox/` contains notebooks and scripts to run some features of the model, notably `coal_study_plots.ipynb` is used to generate the SVG and CSV files in the `publication/figures/` directory
 
 ## Solvers
 

@@ -1,0 +1,22 @@
+name,source,emissions_MtCO2
+Superkritický,Gas,5.773
+Superkritický,Coal power,5.075
+Superkritický,Coal CHP,13.616
+Levnější povolenka,Coal power,13.659
+Levnější povolenka,Coal CHP,18.303
+Levnější povolenka,Gas,1.492
+Dražší povolenka,Gas,5.413
+Dražší povolenka,Coal power,1.827
+Dražší povolenka,Coal CHP,12.125
+Pomalejší rozvoj,Gas,5.61
+Pomalejší rozvoj,Coal power,0.972
+Pomalejší rozvoj,Coal CHP,11.284
+Rychlejší rozvoj,Gas,6.218
+Rychlejší rozvoj,Coal power,0.693
+Rychlejší rozvoj,Coal CHP,10.377
+Kritický,Gas,6.165
+Kritický,Coal power,1.494
+Kritický,Coal CHP,11.43
+Kritický 25,Gas,5.422
+Kritický 25,Coal power,3.283
+Kritický 25,Coal CHP,11.947

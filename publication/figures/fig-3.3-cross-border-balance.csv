@@ -1,0 +1,29 @@
+name,neighbour,ImportTWh,ExportTWh
+Levnější povolenka,AT,0.198,1.716
+Levnější povolenka,SK,0.049,2.688
+Levnější povolenka,PL,0.899,1.037
+Levnější povolenka,DE,1.561,3.051
+Kritický 25,AT,2.75,0.018
+Kritický 25,SK,0.049,3.38
+Kritický 25,PL,0.123,2.912
+Kritický 25,DE,8.002,0.086
+Dražší povolenka,AT,2.82,0.028
+Dražší povolenka,SK,0.032,3.955
+Dražší povolenka,PL,0.087,3.812
+Dražší povolenka,DE,7.618,0.117
+Rychlejší rozvoj,AT,2.385,0.645
+Rychlejší rozvoj,SK,0.231,4.047
+Rychlejší rozvoj,PL,0.539,3.404
+Rychlejší rozvoj,DE,7.6,0.691
+Kritický,AT,2.871,0.224
+Kritický,SK,0.435,2.307
+Kritický,PL,0.987,1.835
+Kritický,DE,8.527,0.463
+Pomalejší rozvoj,AT,3.102,0.267
+Pomalejší rozvoj,SK,0.297,3.276
+Pomalejší rozvoj,PL,0.702,2.866
+Pomalejší rozvoj,DE,9.303,0.422
+Superkritický,AT,3.7,0.02
+Superkritický,SK,0.185,4.564
+Superkritický,PL,0.58,1.8
+Superkritický,DE,13.669,0.038

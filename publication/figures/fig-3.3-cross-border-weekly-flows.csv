@@ -1,0 +1,1457 @@
+name,year,week,neighbour,ImportTWh,ExportTWh
+Levnější povolenka,2009,1,AT,0.009,0.045
+Levnější povolenka,2009,1,SK,0.001,0.035
+Levnější povolenka,2009,1,PL,0.062,0.002
+Levnější povolenka,2009,1,DE,0.019,0.015
+Levnější povolenka,2009,2,AT,0.021,0.034
+Levnější povolenka,2009,2,SK,0,0.06
+Levnější povolenka,2009,2,PL,0.06,0.011
+Levnější povolenka,2009,2,DE,0.019,0.013
+Levnější povolenka,2009,3,AT,0.014,0.01
+Levnější povolenka,2009,3,SK,0,0.06
+Levnější povolenka,2009,3,PL,0.022,0.011
+Levnější povolenka,2009,3,DE,0.031,0.014
+Levnější povolenka,2009,4,AT,0.01,0.021
+Levnější povolenka,2009,4,SK,0,0.057
+Levnější povolenka,2009,4,PL,0.017,0.018
+Levnější povolenka,2009,4,DE,0.032,0.023
+Levnější povolenka,2009,5,AT,0.005,0.011
+Levnější povolenka,2009,5,SK,0.001,0.039
+Levnější povolenka,2009,5,PL,0.028,0.007
+Levnější povolenka,2009,5,DE,0.017,0.019
+Levnější povolenka,2009,6,AT,0.006,0.021
+Levnější povolenka,2009,6,SK,0.002,0.033
+Levnější povolenka,2009,6,PL,0.019,0.01
+Levnější povolenka,2009,6,DE,0.017,0.03
+Levnější povolenka,2009,7,AT,0.017,0.007
+Levnější povolenka,2009,7,SK,0.002,0.029
+Levnější povolenka,2009,7,PL,0.021,0.012
+Levnější povolenka,2009,7,DE,0.009,0.024
+Levnější povolenka,2009,8,AT,0.016,0.018
+Levnější povolenka,2009,8,SK,0.004,0.056
+Levnější povolenka,2009,8,PL,0.019,0.026
+Levnější povolenka,2009,8,DE,0.017,0.028
+Levnější povolenka,2009,9,AT,0.012,0.019
+Levnější povolenka,2009,9,SK,0.001,0.067
+Levnější povolenka,2009,9,PL,0.024,0.019
+Levnější povolenka,2009,9,DE,0.017,0.04
+Levnější povolenka,2009,10,AT,0.002,0.022
+Levnější povolenka,2009,10,SK,0,0.037
+Levnější povolenka,2009,10,PL,0.014,0.019
+Levnější povolenka,2009,10,DE,0.008,0.093
+Levnější povolenka,2009,11,AT,0.003,0.012
+Levnější povolenka,2009,11,SK,0.004,0.035
+Levnější povolenka,2009,11,PL,0.005,0.032
+Levnější povolenka,2009,11,DE,0.007,0.069
+Levnější povolenka,2009,12,AT,0.005,0.018
+Levnější povolenka,2009,12,SK,0.001,0.048
+Levnější povolenka,2009,12,PL,0.016,0.02
+Levnější povolenka,2009,12,DE,0.055,0.041
+Levnější povolenka,2009,13,AT,0,0.043
+Levnější povolenka,2009,13,SK,0.002,0.037
+Levnější povolenka,2009,13,PL,0.022,0.026
+Levnější povolenka,2009,13,DE,0.019,0.085
+Levnější povolenka,2009,14,AT,0.001,0.024
+Levnější povolenka,2009,14,SK,0.001,0.04
+Levnější povolenka,2009,14,PL,0.008,0.024
+Levnější povolenka,2009,14,DE,0.01,0.06
+Levnější povolenka,2009,15,AT,0.005,0.007
+Levnější povolenka,2009,15,SK,0.001,0.045
+Levnější povolenka,2009,15,PL,0.003,0.02
+Levnější povolenka,2009,15,DE,0.026,0.076
+Levnější povolenka,2009,16,AT,0.001,0.023
+Levnější povolenka,2009,16,SK,0.001,0.031
+Levnější povolenka,2009,16,PL,0.008,0.026
+Levnější povolenka,2009,16,DE,0.016,0.052
+Levnější povolenka,2009,17,AT,0.006,0.014
+Levnější povolenka,2009,17,SK,0.001,0.031
+Levnější povolenka,2009,17,PL,0.01,0.024
+Levnější povolenka,2009,17,DE,0.011,0.075
+Levnější povolenka,2009,18,AT,0.017,0.009
+Levnější povolenka,2009,18,SK,0.001,0.048
+Levnější povolenka,2009,18,PL,0.012,0.031
+Levnější povolenka,2009,18,DE,0.06,0.039
+Levnější povolenka,2009,19,AT,0.003,0.025
+Levnější povolenka,2009,19,SK,0.002,0.053
+Levnější povolenka,2009,19,PL,0.015,0.034
+Levnější povolenka,2009,19,DE,0.023,0.063
+Levnější povolenka,2009,20,AT,0.001,0.03
+Levnější povolenka,2009,20,SK,0.001,0.042
+Levnější povolenka,2009,20,PL,0.007,0.028
+Levnější povolenka,2009,20,DE,0.019,0.089
+Levnější povolenka,2009,21,AT,0.024,0.018
+Levnější povolenka,2009,21,SK,0.002,0.078
+Levnější povolenka,2009,21,PL,0.011,0.05
+Levnější povolenka,2009,21,DE,0.085,0.09
+Levnější povolenka,2009,22,AT,0.003,0.005
+Levnější povolenka,2009,22,SK,0.002,0.074
+Levnější povolenka,2009,22,PL,0.008,0.028
+Levnější povolenka,2009,22,DE,0.102,0.075
+Levnější povolenka,2009,23,AT,0.001,0.037
+Levnější povolenka,2009,23,SK,0,0.05
+Levnější povolenka,2009,23,PL,0.007,0.026
+Levnější povolenka,2009,23,DE,0.013,0.082
+Levnější povolenka,2009,24,AT,0,0.019
+Levnější povolenka,2009,24,SK,0,0.051
+Levnější povolenka,2009,24,PL,0.014,0.028
+Levnější povolenka,2009,24,DE,0.035,0.053
+Levnější povolenka,2009,25,AT,0.001,0.012
+Levnější povolenka,2009,25,SK,0.002,0.049
+Levnější povolenka,2009,25,PL,0.002,0.029
+Levnější povolenka,2009,25,DE,0.033,0.116
+Levnější povolenka,2009,26,AT,0,0.03
+Levnější povolenka,2009,26,SK,0.001,0.037
+Levnější povolenka,2009,26,PL,0.005,0.027
+Levnější povolenka,2009,26,DE,0.001,0.156
+Levnější povolenka,2009,27,AT,0.01,0.024
+Levnější povolenka,2009,27,SK,0.001,0.032
+Levnější povolenka,2009,27,PL,0.001,0.037
+Levnější povolenka,2009,27,DE,0.038,0.092
+Levnější povolenka,2009,28,AT,0,0.017
+Levnější povolenka,2009,28,SK,0,0.033
+Levnější povolenka,2009,28,PL,0.008,0.029
+Levnější povolenka,2009,28,DE,0.017,0.085
+Levnější povolenka,2009,29,AT,0.005,0.015
+Levnější povolenka,2009,29,SK,0.001,0.048
+Levnější povolenka,2009,29,PL,0.009,0.032
+Levnější povolenka,2009,29,DE,0.035,0.082
+Levnější povolenka,2009,30,AT,0.002,0.014
+Levnější povolenka,2009,30,SK,0.001,0.036
+Levnější povolenka,2009,30,PL,0.011,0.032
+Levnější povolenka,2009,30,DE,0.029,0.052
+Levnější povolenka,2009,31,AT,0.001,0.028
+Levnější povolenka,2009,31,SK,0,0.047
+Levnější povolenka,2009,31,PL,0.007,0.024
+Levnější povolenka,2009,31,DE,0.035,0.116
+Levnější povolenka,2009,32,AT,0,0.046
+Levnější povolenka,2009,32,SK,0.001,0.048
+Levnější povolenka,2009,32,PL,0.003,0.025
+Levnější povolenka,2009,32,DE,0.001,0.084
+Levnější povolenka,2009,33,AT,0,0.067
+Levnější povolenka,2009,33,SK,0,0.046
+Levnější povolenka,2009,33,PL,0.017,0.03
+Levnější povolenka,2009,33,DE,0.014,0.07
+Levnější povolenka,2009,34,AT,0.001,0.041
+Levnější povolenka,2009,34,SK,0.001,0.046
+Levnější povolenka,2009,34,PL,0.011,0.025
+Levnější povolenka,2009,34,DE,0.002,0.122
+Levnější povolenka,2009,35,AT,0.003,0.056
+Levnější povolenka,2009,35,SK,0.001,0.055
+Levnější povolenka,2009,35,PL,0.013,0.028
+Levnější povolenka,2009,35,DE,0.019,0.064
+Levnější povolenka,2009,36,AT,0.003,0.045
+Levnější povolenka,2009,36,SK,0,0.069
+Levnější povolenka,2009,36,PL,0.011,0.02
+Levnější povolenka,2009,36,DE,0.077,0.042
+Levnější povolenka,2009,37,AT,0,0.062
+Levnější povolenka,2009,37,SK,0,0.074
+Levnější povolenka,2009,37,PL,0.004,0.033
+Levnější povolenka,2009,37,DE,0.001,0.067
+Levnější povolenka,2009,38,AT,0,0.074
+Levnější povolenka,2009,38,SK,0,0.067
+Levnější povolenka,2009,38,PL,0.01,0.033
+Levnější povolenka,2009,38,DE,0.01,0.066
+Levnější povolenka,2009,39,AT,0,0.063
+Levnější povolenka,2009,39,SK,0,0.059
+Levnější povolenka,2009,39,PL,0.006,0.018
+Levnější povolenka,2009,39,DE,0,0.126
+Levnější povolenka,2009,40,AT,0,0.06
+Levnější povolenka,2009,40,SK,0,0.084
+Levnější povolenka,2009,40,PL,0.019,0.023
+Levnější povolenka,2009,40,DE,0.062,0.048
+Levnější povolenka,2009,41,AT,0,0.046
+Levnější povolenka,2009,41,SK,0,0.084
+Levnější povolenka,2009,41,PL,0.01,0.015
+Levnější povolenka,2009,41,DE,0.003,0.106
+Levnější povolenka,2009,42,AT,0.002,0.024
+Levnější povolenka,2009,42,SK,0,0.078
+Levnější povolenka,2009,42,PL,0.006,0.013
+Levnější povolenka,2009,42,DE,0.026,0.03
+Levnější povolenka,2009,43,AT,0,0.023
+Levnější povolenka,2009,43,SK,0.001,0.045
+Levnější povolenka,2009,43,PL,0.008,0.01
+Levnější povolenka,2009,43,DE,0.013,0.084
+Levnější povolenka,2009,44,AT,0,0.029
+Levnější povolenka,2009,44,SK,0.002,0.056
+Levnější povolenka,2009,44,PL,0.02,0.011
+Levnější povolenka,2009,44,DE,0.014,0.061
+Levnější povolenka,2009,45,AT,0,0.035
+Levnější povolenka,2009,45,SK,0,0.043
+Levnější povolenka,2009,45,PL,0.011,0.012
+Levnější povolenka,2009,45,DE,0.008,0.053
+Levnější povolenka,2009,46,AT,0,0.026
+Levnější povolenka,2009,46,SK,0.001,0.057
+Levnější povolenka,2009,46,PL,0.011,0.01
+Levnější povolenka,2009,46,DE,0.026,0.017
+Levnější povolenka,2009,47,AT,0,0.029
+Levnější povolenka,2009,47,SK,0,0.101
+Levnější povolenka,2009,47,PL,0.015,0.012
+Levnější povolenka,2009,47,DE,0.134,0.005
+Levnější povolenka,2009,48,AT,0,0.024
+Levnější povolenka,2009,48,SK,0.004,0.043
+Levnější povolenka,2009,48,PL,0.031,0.011
+Levnější povolenka,2009,48,DE,0.021,0.054
+Levnější povolenka,2009,49,AT,0,0.028
+Levnější povolenka,2009,49,SK,0,0.085
+Levnější povolenka,2009,49,PL,0.006,0.038
+Levnější povolenka,2009,49,DE,0.01,0.036
+Levnější povolenka,2009,50,AT,0.011,0.018
+Levnější povolenka,2009,50,SK,0,0.043
+Levnější povolenka,2009,50,PL,0.003,0.068
+Levnější povolenka,2009,50,DE,0.015,0.008
+Levnější povolenka,2009,51,AT,0.027,0.025
+Levnější povolenka,2009,51,SK,0.001,0.051
+Levnější povolenka,2009,51,PL,0.011,0.053
+Levnější povolenka,2009,51,DE,0.028,0.021
+Levnější povolenka,2009,52,AT,0,0.047
+Levnější povolenka,2009,52,SK,0.001,0.061
+Levnější povolenka,2009,52,PL,0.005,0.018
+Levnější povolenka,2009,52,DE,0.007,0.077
+Kritický 25,2009,1,AT,0.056,0.002
+Kritický 25,2009,1,SK,0.003,0.048
+Kritický 25,2009,1,PL,0.008,0.042
+Kritický 25,2009,1,DE,0.235,0
+Kritický 25,2009,2,AT,0.057,0
+Kritický 25,2009,2,SK,0,0.082
+Kritický 25,2009,2,PL,0.026,0.022
+Kritický 25,2009,2,DE,0.261,0
+Kritický 25,2009,3,AT,0.063,0
+Kritický 25,2009,3,SK,0,0.069
+Kritický 25,2009,3,PL,0.001,0.037
+Kritický 25,2009,3,DE,0.259,0
+Kritický 25,2009,4,AT,0.069,0
+Kritický 25,2009,4,SK,0,0.078
+Kritický 25,2009,4,PL,0.002,0.051
+Kritický 25,2009,4,DE,0.229,0
+Kritický 25,2009,5,AT,0.066,0
+Kritický 25,2009,5,SK,0,0.051
+Kritický 25,2009,5,PL,0.002,0.051
+Kritický 25,2009,5,DE,0.202,0.002
+Kritický 25,2009,6,AT,0.065,0
+Kritický 25,2009,6,SK,0.002,0.036
+Kritický 25,2009,6,PL,0.004,0.049
+Kritický 25,2009,6,DE,0.171,0.002
+Kritický 25,2009,7,AT,0.077,0
+Kritický 25,2009,7,SK,0.002,0.041
+Kritický 25,2009,7,PL,0.003,0.039
+Kritický 25,2009,7,DE,0.189,0
+Kritický 25,2009,8,AT,0.057,0
+Kritický 25,2009,8,SK,0.005,0.064
+Kritický 25,2009,8,PL,0.009,0.042
+Kritický 25,2009,8,DE,0.219,0
+Kritický 25,2009,9,AT,0.053,0.001
+Kritický 25,2009,9,SK,0.001,0.078
+Kritický 25,2009,9,PL,0.007,0.049
+Kritický 25,2009,9,DE,0.186,0
+Kritický 25,2009,10,AT,0.058,0
+Kritický 25,2009,10,SK,0.001,0.05
+Kritický 25,2009,10,PL,0,0.065
+Kritický 25,2009,10,DE,0.07,0.003
+Kritický 25,2009,11,AT,0.05,0
+Kritický 25,2009,11,SK,0.005,0.045
+Kritický 25,2009,11,PL,0,0.065
+Kritický 25,2009,11,DE,0.084,0.014
+Kritický 25,2009,12,AT,0.06,0
+Kritický 25,2009,12,SK,0.006,0.047
+Kritický 25,2009,12,PL,0.001,0.066
+Kritický 25,2009,12,DE,0.154,0.008
+Kritický 25,2009,13,AT,0.059,0
+Kritický 25,2009,13,SK,0.002,0.043
+Kritický 25,2009,13,PL,0.002,0.059
+Kritický 25,2009,13,DE,0.129,0.002
+Kritický 25,2009,14,AT,0.039,0
+Kritický 25,2009,14,SK,0.001,0.061
+Kritický 25,2009,14,PL,0,0.057
+Kritický 25,2009,14,DE,0.112,0.001
+Kritický 25,2009,15,AT,0.053,0
+Kritický 25,2009,15,SK,0.002,0.045
+Kritický 25,2009,15,PL,0.001,0.063
+Kritický 25,2009,15,DE,0.115,0.002
+Kritický 25,2009,16,AT,0.062,0
+Kritický 25,2009,16,SK,0.001,0.044
+Kritický 25,2009,16,PL,0.001,0.048
+Kritický 25,2009,16,DE,0.129,0
+Kritický 25,2009,17,AT,0.071,0
+Kritický 25,2009,17,SK,0,0.045
+Kritický 25,2009,17,PL,0.001,0.042
+Kritický 25,2009,17,DE,0.103,0.001
+Kritický 25,2009,18,AT,0.076,0
+Kritický 25,2009,18,SK,0.003,0.054
+Kritický 25,2009,18,PL,0,0.057
+Kritický 25,2009,18,DE,0.117,0.001
+Kritický 25,2009,19,AT,0.038,0
+Kritický 25,2009,19,SK,0.001,0.046
+Kritický 25,2009,19,PL,0.001,0.057
+Kritický 25,2009,19,DE,0.113,0.001
+Kritický 25,2009,20,AT,0.045,0
+Kritický 25,2009,20,SK,0,0.052
+Kritický 25,2009,20,PL,0.001,0.058
+Kritický 25,2009,20,DE,0.133,0.001
+Kritický 25,2009,21,AT,0.067,0
+Kritický 25,2009,21,SK,0.001,0.08
+Kritický 25,2009,21,PL,0.004,0.061
+Kritický 25,2009,21,DE,0.161,0
+Kritický 25,2009,22,AT,0.073,0
+Kritický 25,2009,22,SK,0.001,0.073
+Kritický 25,2009,22,PL,0.001,0.059
+Kritický 25,2009,22,DE,0.174,0
+Kritický 25,2009,23,AT,0.057,0
+Kritický 25,2009,23,SK,0,0.048
+Kritický 25,2009,23,PL,0.001,0.054
+Kritický 25,2009,23,DE,0.129,0.003
+Kritický 25,2009,24,AT,0.052,0
+Kritický 25,2009,24,SK,0,0.045
+Kritický 25,2009,24,PL,0.001,0.06
+Kritický 25,2009,24,DE,0.135,0
+Kritický 25,2009,25,AT,0.062,0
+Kritický 25,2009,25,SK,0.001,0.052
+Kritický 25,2009,25,PL,0,0.061
+Kritický 25,2009,25,DE,0.154,0
+Kritický 25,2009,26,AT,0.053,0
+Kritický 25,2009,26,SK,0.001,0.032
+Kritický 25,2009,26,PL,0,0.061
+Kritický 25,2009,26,DE,0.118,0
+Kritický 25,2009,27,AT,0.059,0.001
+Kritický 25,2009,27,SK,0.001,0.036
+Kritický 25,2009,27,PL,0.001,0.056
+Kritický 25,2009,27,DE,0.142,0
+Kritický 25,2009,28,AT,0.049,0
+Kritický 25,2009,28,SK,0.003,0.036
+Kritický 25,2009,28,PL,0.003,0.053
+Kritický 25,2009,28,DE,0.143,0.001
+Kritický 25,2009,29,AT,0.06,0
+Kritický 25,2009,29,SK,0.002,0.04
+Kritický 25,2009,29,PL,0.002,0.05
+Kritický 25,2009,29,DE,0.138,0.003
+Kritický 25,2009,30,AT,0.052,0
+Kritický 25,2009,30,SK,0.001,0.029
+Kritický 25,2009,30,PL,0,0.049
+Kritický 25,2009,30,DE,0.122,0.002
+Kritický 25,2009,31,AT,0.054,0
+Kritický 25,2009,31,SK,0.001,0.033
+Kritický 25,2009,31,PL,0.001,0.057
+Kritický 25,2009,31,DE,0.136,0
+Kritický 25,2009,32,AT,0.048,0
+Kritický 25,2009,32,SK,0.002,0.034
+Kritický 25,2009,32,PL,0.003,0.052
+Kritický 25,2009,32,DE,0.115,0
+Kritický 25,2009,33,AT,0.05,0
+Kritický 25,2009,33,SK,0.002,0.044
+Kritický 25,2009,33,PL,0.002,0.045
+Kritický 25,2009,33,DE,0.129,0.002
+Kritický 25,2009,34,AT,0.05,0
+Kritický 25,2009,34,SK,0.001,0.041
+Kritický 25,2009,34,PL,0.001,0.045
+Kritický 25,2009,34,DE,0.131,0.001
+Kritický 25,2009,35,AT,0.047,0
+Kritický 25,2009,35,SK,0.003,0.046
+Kritický 25,2009,35,PL,0.002,0.064
+Kritický 25,2009,35,DE,0.155,0.005
+Kritický 25,2009,36,AT,0.049,0.001
+Kritický 25,2009,36,SK,0.001,0.048
+Kritický 25,2009,36,PL,0.002,0.059
+Kritický 25,2009,36,DE,0.18,0.002
+Kritický 25,2009,37,AT,0.047,0
+Kritický 25,2009,37,SK,0,0.064
+Kritický 25,2009,37,PL,0,0.057
+Kritický 25,2009,37,DE,0.112,0
+Kritický 25,2009,38,AT,0.052,0
+Kritický 25,2009,38,SK,0.001,0.053
+Kritický 25,2009,38,PL,0.005,0.046
+Kritický 25,2009,38,DE,0.101,0.002
+Kritický 25,2009,39,AT,0.041,0.001
+Kritický 25,2009,39,SK,0,0.066
+Kritický 25,2009,39,PL,0.001,0.056
+Kritický 25,2009,39,DE,0.071,0.004
+Kritický 25,2009,40,AT,0.043,0
+Kritický 25,2009,40,SK,0,0.091
+Kritický 25,2009,40,PL,0.001,0.059
+Kritický 25,2009,40,DE,0.178,0.001
+Kritický 25,2009,41,AT,0.055,0
+Kritický 25,2009,41,SK,0,0.078
+Kritický 25,2009,41,PL,0.003,0.052
+Kritický 25,2009,41,DE,0.139,0
+Kritický 25,2009,42,AT,0.064,0
+Kritický 25,2009,42,SK,0,0.092
+Kritický 25,2009,42,PL,0,0.06
+Kritický 25,2009,42,DE,0.157,0.005
+Kritický 25,2009,43,AT,0.054,0
+Kritický 25,2009,43,SK,0,0.074
+Kritický 25,2009,43,PL,0,0.076
+Kritický 25,2009,43,DE,0.116,0.005
+Kritický 25,2009,44,AT,0.057,0
+Kritický 25,2009,44,SK,0.005,0.064
+Kritický 25,2009,44,PL,0.004,0.063
+Kritický 25,2009,44,DE,0.12,0.003
+Kritický 25,2009,45,AT,0.051,0
+Kritický 25,2009,45,SK,0,0.053
+Kritický 25,2009,45,PL,0.002,0.065
+Kritický 25,2009,45,DE,0.093,0.001
+Kritický 25,2009,46,AT,0.038,0
+Kritický 25,2009,46,SK,0,0.092
+Kritický 25,2009,46,PL,0.001,0.062
+Kritický 25,2009,46,DE,0.166,0
+Kritický 25,2009,47,AT,0.035,0
+Kritický 25,2009,47,SK,0,0.116
+Kritický 25,2009,47,PL,0.003,0.074
+Kritický 25,2009,47,DE,0.221,0
+Kritický 25,2009,48,AT,0.04,0.003
+Kritický 25,2009,48,SK,0.003,0.072
+Kritický 25,2009,48,PL,0.005,0.051
+Kritický 25,2009,48,DE,0.137,0.007
+Kritický 25,2009,49,AT,0.054,0
+Kritický 25,2009,49,SK,0,0.108
+Kritický 25,2009,49,PL,0.001,0.07
+Kritický 25,2009,49,DE,0.18,0.003
+Kritický 25,2009,50,AT,0.06,0
+Kritický 25,2009,50,SK,0,0.081
+Kritický 25,2009,50,PL,0,0.069
+Kritický 25,2009,50,DE,0.205,0
+Kritický 25,2009,51,AT,0.066,0.001
+Kritický 25,2009,51,SK,0,0.079
+Kritický 25,2009,51,PL,0.003,0.072
+Kritický 25,2009,51,DE,0.248,0
+Kritický 25,2009,52,AT,0.037,0
+Kritický 25,2009,52,SK,0.001,0.049
+Kritický 25,2009,52,PL,0,0.063
+Kritický 25,2009,52,DE,0.113,0.001
+Dražší povolenka,2009,1,AT,0.054,0.004
+Dražší povolenka,2009,1,SK,0,0.071
+Dražší povolenka,2009,1,PL,0.003,0.055
+Dražší povolenka,2009,1,DE,0.227,0.001
+Dražší povolenka,2009,2,AT,0.06,0
+Dražší povolenka,2009,2,SK,0,0.087
+Dražší povolenka,2009,2,PL,0.02,0.032
+Dražší povolenka,2009,2,DE,0.218,0.001
+Dražší povolenka,2009,3,AT,0.062,0
+Dražší povolenka,2009,3,SK,0,0.099
+Dražší povolenka,2009,3,PL,0,0.066
+Dražší povolenka,2009,3,DE,0.245,0
+Dražší povolenka,2009,4,AT,0.079,0
+Dražší povolenka,2009,4,SK,0,0.08
+Dražší povolenka,2009,4,PL,0,0.072
+Dražší povolenka,2009,4,DE,0.181,0.001
+Dražší povolenka,2009,5,AT,0.063,0
+Dražší povolenka,2009,5,SK,0,0.068
+Dražší povolenka,2009,5,PL,0,0.075
+Dražší povolenka,2009,5,DE,0.186,0.002
+Dražší povolenka,2009,6,AT,0.066,0
+Dražší povolenka,2009,6,SK,0.002,0.04
+Dražší povolenka,2009,6,PL,0.002,0.062
+Dražší povolenka,2009,6,DE,0.114,0.004
+Dražší povolenka,2009,7,AT,0.079,0
+Dražší povolenka,2009,7,SK,0.001,0.049
+Dražší povolenka,2009,7,PL,0.001,0.065
+Dražší povolenka,2009,7,DE,0.137,0.002
+Dražší povolenka,2009,8,AT,0.06,0
+Dražší povolenka,2009,8,SK,0.005,0.081
+Dražší povolenka,2009,8,PL,0.008,0.059
+Dražší povolenka,2009,8,DE,0.176,0
+Dražší povolenka,2009,9,AT,0.051,0.001
+Dražší povolenka,2009,9,SK,0.001,0.09
+Dražší povolenka,2009,9,PL,0.005,0.066
+Dražší povolenka,2009,9,DE,0.15,0.001
+Dražší povolenka,2009,10,AT,0.065,0
+Dražší povolenka,2009,10,SK,0,0.059
+Dražší povolenka,2009,10,PL,0,0.088
+Dražší povolenka,2009,10,DE,0.07,0.001
+Dražší povolenka,2009,11,AT,0.063,0
+Dražší povolenka,2009,11,SK,0.004,0.051
+Dražší povolenka,2009,11,PL,0,0.08
+Dražší povolenka,2009,11,DE,0.099,0.01
+Dražší povolenka,2009,12,AT,0.068,0
+Dražší povolenka,2009,12,SK,0.002,0.062
+Dražší povolenka,2009,12,PL,0,0.092
+Dražší povolenka,2009,12,DE,0.148,0.004
+Dražší povolenka,2009,13,AT,0.052,0
+Dražší povolenka,2009,13,SK,0,0.054
+Dražší povolenka,2009,13,PL,0.001,0.074
+Dražší povolenka,2009,13,DE,0.108,0.001
+Dražší povolenka,2009,14,AT,0.042,0
+Dražší povolenka,2009,14,SK,0,0.067
+Dražší povolenka,2009,14,PL,0,0.079
+Dražší povolenka,2009,14,DE,0.091,0
+Dražší povolenka,2009,15,AT,0.058,0
+Dražší povolenka,2009,15,SK,0.001,0.06
+Dražší povolenka,2009,15,PL,0.001,0.082
+Dražší povolenka,2009,15,DE,0.113,0.003
+Dražší povolenka,2009,16,AT,0.059,0
+Dražší povolenka,2009,16,SK,0,0.052
+Dražší povolenka,2009,16,PL,0.001,0.065
+Dražší povolenka,2009,16,DE,0.11,0
+Dražší povolenka,2009,17,AT,0.073,0
+Dražší povolenka,2009,17,SK,0,0.052
+Dražší povolenka,2009,17,PL,0,0.06
+Dražší povolenka,2009,17,DE,0.082,0.001
+Dražší povolenka,2009,18,AT,0.076,0
+Dražší povolenka,2009,18,SK,0,0.073
+Dražší povolenka,2009,18,PL,0,0.078
+Dražší povolenka,2009,18,DE,0.127,0.001
+Dražší povolenka,2009,19,AT,0.036,0
+Dražší povolenka,2009,19,SK,0.001,0.061
+Dražší povolenka,2009,19,PL,0,0.079
+Dražší povolenka,2009,19,DE,0.119,0.002
+Dražší povolenka,2009,20,AT,0.051,0
+Dražší povolenka,2009,20,SK,0,0.067
+Dražší povolenka,2009,20,PL,0.001,0.082
+Dražší povolenka,2009,20,DE,0.114,0.001
+Dražší povolenka,2009,21,AT,0.066,0
+Dražší povolenka,2009,21,SK,0,0.099
+Dražší povolenka,2009,21,PL,0.002,0.084
+Dražší povolenka,2009,21,DE,0.164,0
+Dražší povolenka,2009,22,AT,0.055,0
+Dražší povolenka,2009,22,SK,0,0.098
+Dražší povolenka,2009,22,PL,0.002,0.079
+Dražší povolenka,2009,22,DE,0.199,0
+Dražší povolenka,2009,23,AT,0.053,0
+Dražší povolenka,2009,23,SK,0,0.061
+Dražší povolenka,2009,23,PL,0.001,0.066
+Dražší povolenka,2009,23,DE,0.091,0.001
+Dražší povolenka,2009,24,AT,0.052,0
+Dražší povolenka,2009,24,SK,0,0.069
+Dražší povolenka,2009,24,PL,0,0.08
+Dražší povolenka,2009,24,DE,0.125,0
+Dražší povolenka,2009,25,AT,0.066,0
+Dražší povolenka,2009,25,SK,0,0.072
+Dražší povolenka,2009,25,PL,0,0.084
+Dražší povolenka,2009,25,DE,0.163,0
+Dražší povolenka,2009,26,AT,0.049,0
+Dražší povolenka,2009,26,SK,0,0.046
+Dražší povolenka,2009,26,PL,0,0.084
+Dražší povolenka,2009,26,DE,0.102,0
+Dražší povolenka,2009,27,AT,0.062,0
+Dražší povolenka,2009,27,SK,0,0.055
+Dražší povolenka,2009,27,PL,0,0.077
+Dražší povolenka,2009,27,DE,0.148,0
+Dražší povolenka,2009,28,AT,0.043,0
+Dražší povolenka,2009,28,SK,0,0.049
+Dražší povolenka,2009,28,PL,0.001,0.064
+Dražší povolenka,2009,28,DE,0.125,0.001
+Dražší povolenka,2009,29,AT,0.063,0
+Dražší povolenka,2009,29,SK,0,0.049
+Dražší povolenka,2009,29,PL,0.002,0.068
+Dražší povolenka,2009,29,DE,0.125,0.002
+Dražší povolenka,2009,30,AT,0.051,0
+Dražší povolenka,2009,30,SK,0.001,0.036
+Dražší povolenka,2009,30,PL,0,0.068
+Dražší povolenka,2009,30,DE,0.099,0.002
+Dražší povolenka,2009,31,AT,0.06,0
+Dražší povolenka,2009,31,SK,0,0.048
+Dražší povolenka,2009,31,PL,0.001,0.074
+Dražší povolenka,2009,31,DE,0.133,0
+Dražší povolenka,2009,32,AT,0.048,0
+Dražší povolenka,2009,32,SK,0.001,0.036
+Dražší povolenka,2009,32,PL,0.001,0.063
+Dražší povolenka,2009,32,DE,0.088,0
+Dražší povolenka,2009,33,AT,0.055,0
+Dražší povolenka,2009,33,SK,0,0.052
+Dražší povolenka,2009,33,PL,0,0.06
+Dražší povolenka,2009,33,DE,0.108,0.002
+Dražší povolenka,2009,34,AT,0.047,0
+Dražší povolenka,2009,34,SK,0,0.047
+Dražší povolenka,2009,34,PL,0.001,0.056
+Dražší povolenka,2009,34,DE,0.12,0.001
+Dražší povolenka,2009,35,AT,0.051,0
+Dražší povolenka,2009,35,SK,0.002,0.061
+Dražší povolenka,2009,35,PL,0.001,0.076
+Dražší povolenka,2009,35,DE,0.139,0.005
+Dražší povolenka,2009,36,AT,0.049,0
+Dražší povolenka,2009,36,SK,0,0.06
+Dražší povolenka,2009,36,PL,0,0.077
+Dražší povolenka,2009,36,DE,0.191,0
+Dražší povolenka,2009,37,AT,0.059,0
+Dražší povolenka,2009,37,SK,0,0.069
+Dražší povolenka,2009,37,PL,0,0.073
+Dražší povolenka,2009,37,DE,0.118,0
+Dražší povolenka,2009,38,AT,0.053,0
+Dražší povolenka,2009,38,SK,0,0.067
+Dražší povolenka,2009,38,PL,0.001,0.066
+Dražší povolenka,2009,38,DE,0.087,0.001
+Dražší povolenka,2009,39,AT,0.049,0.003
+Dražší povolenka,2009,39,SK,0,0.079
+Dražší povolenka,2009,39,PL,0,0.076
+Dražší povolenka,2009,39,DE,0.069,0.001
+Dražší povolenka,2009,40,AT,0.044,0
+Dražší povolenka,2009,40,SK,0,0.103
+Dražší povolenka,2009,40,PL,0.001,0.072
+Dražší povolenka,2009,40,DE,0.216,0
+Dražší povolenka,2009,41,AT,0.052,0
+Dražší povolenka,2009,41,SK,0,0.096
+Dražší povolenka,2009,41,PL,0.001,0.073
+Dražší povolenka,2009,41,DE,0.138,0
+Dražší povolenka,2009,42,AT,0.062,0
+Dražší povolenka,2009,42,SK,0,0.108
+Dražší povolenka,2009,42,PL,0,0.085
+Dražší povolenka,2009,42,DE,0.164,0.005
+Dražší povolenka,2009,43,AT,0.045,0
+Dražší povolenka,2009,43,SK,0.001,0.086
+Dražší povolenka,2009,43,PL,0,0.1
+Dražší povolenka,2009,43,DE,0.113,0.005
+Dražší povolenka,2009,44,AT,0.054,0
+Dražší povolenka,2009,44,SK,0.002,0.073
+Dražší povolenka,2009,44,PL,0.003,0.075
+Dražší povolenka,2009,44,DE,0.11,0.001
+Dražší povolenka,2009,45,AT,0.047,0.001
+Dražší povolenka,2009,45,SK,0,0.063
+Dražší povolenka,2009,45,PL,0.001,0.083
+Dražší povolenka,2009,45,DE,0.083,0.001
+Dražší povolenka,2009,46,AT,0.029,0
+Dražší povolenka,2009,46,SK,0,0.106
+Dražší povolenka,2009,46,PL,0.001,0.081
+Dražší povolenka,2009,46,DE,0.166,0
+Dražší povolenka,2009,47,AT,0.034,0.001
+Dražší povolenka,2009,47,SK,0,0.153
+Dražší povolenka,2009,47,PL,0.002,0.098
+Dražší povolenka,2009,47,DE,0.286,0
+Dražší povolenka,2009,48,AT,0.026,0.001
+Dražší povolenka,2009,48,SK,0.002,0.092
+Dražší povolenka,2009,48,PL,0.002,0.071
+Dražší povolenka,2009,48,DE,0.12,0.006
+Dražší povolenka,2009,49,AT,0.03,0
+Dražší povolenka,2009,49,SK,0,0.126
+Dražší povolenka,2009,49,PL,0,0.094
+Dražší povolenka,2009,49,DE,0.172,0
+Dražší povolenka,2009,50,AT,0.064,0
+Dražší povolenka,2009,50,SK,0,0.06
+Dražší povolenka,2009,50,PL,0.003,0.075
+Dražší povolenka,2009,50,DE,0.105,0.001
+Dražší povolenka,2009,51,AT,0.061,0.002
+Dražší povolenka,2009,51,SK,0.003,0.071
+Dražší povolenka,2009,51,PL,0.004,0.075
+Dražší povolenka,2009,51,DE,0.184,0.006
+Dražší povolenka,2009,52,AT,0.032,0.001
+Dražší povolenka,2009,52,SK,0,0.065
+Dražší povolenka,2009,52,PL,0,0.085
+Dražší povolenka,2009,52,DE,0.099,0.002
+Rychlejší rozvoj,2009,1,AT,0.038,0.018
+Rychlejší rozvoj,2009,1,SK,0.004,0.025
+Rychlejší rozvoj,2009,1,PL,0.033,0.043
+Rychlejší rozvoj,2009,1,DE,0.139,0.016
+Rychlejší rozvoj,2009,2,AT,0.041,0.01
+Rychlejší rozvoj,2009,2,SK,0.009,0.051
+Rychlejší rozvoj,2009,2,PL,0.038,0.014
+Rychlejší rozvoj,2009,2,DE,0.141,0.017
+Rychlejší rozvoj,2009,3,AT,0.039,0.002
+Rychlejší rozvoj,2009,3,SK,0,0.071
+Rychlejší rozvoj,2009,3,PL,0.013,0.053
+Rychlejší rozvoj,2009,3,DE,0.225,0
+Rychlejší rozvoj,2009,4,AT,0.053,0.002
+Rychlejší rozvoj,2009,4,SK,0.002,0.05
+Rychlejší rozvoj,2009,4,PL,0.012,0.067
+Rychlejší rozvoj,2009,4,DE,0.138,0.004
+Rychlejší rozvoj,2009,5,AT,0.04,0.001
+Rychlejší rozvoj,2009,5,SK,0.007,0.044
+Rychlejší rozvoj,2009,5,PL,0.006,0.054
+Rychlejší rozvoj,2009,5,DE,0.127,0.018
+Rychlejší rozvoj,2009,6,AT,0.053,0.002
+Rychlejší rozvoj,2009,6,SK,0.02,0.031
+Rychlejší rozvoj,2009,6,PL,0.006,0.062
+Rychlejší rozvoj,2009,6,DE,0.143,0.027
+Rychlejší rozvoj,2009,7,AT,0.062,0.002
+Rychlejší rozvoj,2009,7,SK,0.016,0.031
+Rychlejší rozvoj,2009,7,PL,0.012,0.039
+Rychlejší rozvoj,2009,7,DE,0.054,0.029
+Rychlejší rozvoj,2009,8,AT,0.04,0.003
+Rychlejší rozvoj,2009,8,SK,0.017,0.054
+Rychlejší rozvoj,2009,8,PL,0.012,0.055
+Rychlejší rozvoj,2009,8,DE,0.145,0.005
+Rychlejší rozvoj,2009,9,AT,0.039,0.007
+Rychlejší rozvoj,2009,9,SK,0.009,0.063
+Rychlejší rozvoj,2009,9,PL,0.02,0.055
+Rychlejší rozvoj,2009,9,DE,0.115,0.013
+Rychlejší rozvoj,2009,10,AT,0.052,0.004
+Rychlejší rozvoj,2009,10,SK,0.001,0.033
+Rychlejší rozvoj,2009,10,PL,0.003,0.068
+Rychlejší rozvoj,2009,10,DE,0.061,0.013
+Rychlejší rozvoj,2009,11,AT,0.044,0.006
+Rychlejší rozvoj,2009,11,SK,0.013,0.043
+Rychlejší rozvoj,2009,11,PL,0.008,0.069
+Rychlejší rozvoj,2009,11,DE,0.064,0.035
+Rychlejší rozvoj,2009,12,AT,0.054,0.002
+Rychlejší rozvoj,2009,12,SK,0.012,0.091
+Rychlejší rozvoj,2009,12,PL,0.01,0.073
+Rychlejší rozvoj,2009,12,DE,0.153,0.033
+Rychlejší rozvoj,2009,13,AT,0.031,0.009
+Rychlejší rozvoj,2009,13,SK,0.006,0.051
+Rychlejší rozvoj,2009,13,PL,0.008,0.074
+Rychlejší rozvoj,2009,13,DE,0.108,0.015
+Rychlejší rozvoj,2009,14,AT,0.025,0.022
+Rychlejší rozvoj,2009,14,SK,0.005,0.071
+Rychlejší rozvoj,2009,14,PL,0,0.084
+Rychlejší rozvoj,2009,14,DE,0.03,0.036
+Rychlejší rozvoj,2009,15,AT,0.047,0.005
+Rychlejší rozvoj,2009,15,SK,0.002,0.078
+Rychlejší rozvoj,2009,15,PL,0.001,0.1
+Rychlejší rozvoj,2009,15,DE,0.071,0.015
+Rychlejší rozvoj,2009,16,AT,0.067,0.007
+Rychlejší rozvoj,2009,16,SK,0.001,0.075
+Rychlejší rozvoj,2009,16,PL,0.001,0.091
+Rychlejší rozvoj,2009,16,DE,0.099,0.004
+Rychlejší rozvoj,2009,17,AT,0.066,0.014
+Rychlejší rozvoj,2009,17,SK,0.007,0.08
+Rychlejší rozvoj,2009,17,PL,0.009,0.057
+Rychlejší rozvoj,2009,17,DE,0.07,0.04
+Rychlejší rozvoj,2009,18,AT,0.082,0.005
+Rychlejší rozvoj,2009,18,SK,0.002,0.122
+Rychlejší rozvoj,2009,18,PL,0.011,0.068
+Rychlejší rozvoj,2009,18,DE,0.165,0.004
+Rychlejší rozvoj,2009,19,AT,0.045,0.021
+Rychlejší rozvoj,2009,19,SK,0.004,0.143
+Rychlejší rozvoj,2009,19,PL,0.008,0.091
+Rychlejší rozvoj,2009,19,DE,0.251,0.006
+Rychlejší rozvoj,2009,20,AT,0.064,0.005
+Rychlejší rozvoj,2009,20,SK,0.005,0.114
+Rychlejší rozvoj,2009,20,PL,0.003,0.089
+Rychlejší rozvoj,2009,20,DE,0.2,0.012
+Rychlejší rozvoj,2009,21,AT,0.057,0.018
+Rychlejší rozvoj,2009,21,SK,0.003,0.122
+Rychlejší rozvoj,2009,21,PL,0.007,0.077
+Rychlejší rozvoj,2009,21,DE,0.149,0.006
+Rychlejší rozvoj,2009,22,AT,0.089,0.003
+Rychlejší rozvoj,2009,22,SK,0,0.123
+Rychlejší rozvoj,2009,22,PL,0.009,0.08
+Rychlejší rozvoj,2009,22,DE,0.234,0.002
+Rychlejší rozvoj,2009,23,AT,0.05,0.01
+Rychlejší rozvoj,2009,23,SK,0.007,0.085
+Rychlejší rozvoj,2009,23,PL,0.003,0.082
+Rychlejší rozvoj,2009,23,DE,0.098,0.027
+Rychlejší rozvoj,2009,24,AT,0.048,0.022
+Rychlejší rozvoj,2009,24,SK,0,0.125
+Rychlejší rozvoj,2009,24,PL,0.009,0.085
+Rychlejší rozvoj,2009,24,DE,0.169,0.005
+Rychlejší rozvoj,2009,25,AT,0.069,0.002
+Rychlejší rozvoj,2009,25,SK,0,0.118
+Rychlejší rozvoj,2009,25,PL,0.016,0.069
+Rychlejší rozvoj,2009,25,DE,0.216,0.003
+Rychlejší rozvoj,2009,26,AT,0.052,0.003
+Rychlejší rozvoj,2009,26,SK,0.003,0.051
+Rychlejší rozvoj,2009,26,PL,0.001,0.104
+Rychlejší rozvoj,2009,26,DE,0.115,0.005
+Rychlejší rozvoj,2009,27,AT,0.058,0.005
+Rychlejší rozvoj,2009,27,SK,0.002,0.08
+Rychlejší rozvoj,2009,27,PL,0,0.095
+Rychlejší rozvoj,2009,27,DE,0.135,0.008
+Rychlejší rozvoj,2009,28,AT,0.065,0.008
+Rychlejší rozvoj,2009,28,SK,0,0.096
+Rychlejší rozvoj,2009,28,PL,0.003,0.084
+Rychlejší rozvoj,2009,28,DE,0.173,0.004
+Rychlejší rozvoj,2009,29,AT,0.083,0.004
+Rychlejší rozvoj,2009,29,SK,0.004,0.108
+Rychlejší rozvoj,2009,29,PL,0.002,0.094
+Rychlejší rozvoj,2009,29,DE,0.217,0.009
+Rychlejší rozvoj,2009,30,AT,0.07,0.012
+Rychlejší rozvoj,2009,30,SK,0.003,0.101
+Rychlejší rozvoj,2009,30,PL,0.003,0.097
+Rychlejší rozvoj,2009,30,DE,0.181,0.009
+Rychlejší rozvoj,2009,31,AT,0.074,0.008
+Rychlejší rozvoj,2009,31,SK,0.006,0.077
+Rychlejší rozvoj,2009,31,PL,0.002,0.081
+Rychlejší rozvoj,2009,31,DE,0.146,0.015
+Rychlejší rozvoj,2009,32,AT,0.051,0.012
+Rychlejší rozvoj,2009,32,SK,0.003,0.063
+Rychlejší rozvoj,2009,32,PL,0.001,0.061
+Rychlejší rozvoj,2009,32,DE,0.094,0.013
+Rychlejší rozvoj,2009,33,AT,0.038,0.022
+Rychlejší rozvoj,2009,33,SK,0.005,0.065
+Rychlejší rozvoj,2009,33,PL,0.018,0.056
+Rychlejší rozvoj,2009,33,DE,0.103,0.011
+Rychlejší rozvoj,2009,34,AT,0.038,0.018
+Rychlejší rozvoj,2009,34,SK,0.006,0.066
+Rychlejší rozvoj,2009,34,PL,0.006,0.08
+Rychlejší rozvoj,2009,34,DE,0.123,0.019
+Rychlejší rozvoj,2009,35,AT,0.058,0.017
+Rychlejší rozvoj,2009,35,SK,0.007,0.117
+Rychlejší rozvoj,2009,35,PL,0.006,0.089
+Rychlejší rozvoj,2009,35,DE,0.215,0.017
+Rychlejší rozvoj,2009,36,AT,0.067,0.018
+Rychlejší rozvoj,2009,36,SK,0.004,0.109
+Rychlejší rozvoj,2009,36,PL,0.006,0.071
+Rychlejší rozvoj,2009,36,DE,0.232,0.009
+Rychlejší rozvoj,2009,37,AT,0.027,0.007
+Rychlejší rozvoj,2009,37,SK,0.002,0.062
+Rychlejší rozvoj,2009,37,PL,0.002,0.082
+Rychlejší rozvoj,2009,37,DE,0.121,0.008
+Rychlejší rozvoj,2009,38,AT,0.036,0.014
+Rychlejší rozvoj,2009,38,SK,0.001,0.054
+Rychlejší rozvoj,2009,38,PL,0.012,0.047
+Rychlejší rozvoj,2009,38,DE,0.081,0.008
+Rychlejší rozvoj,2009,39,AT,0.029,0.019
+Rychlejší rozvoj,2009,39,SK,0.004,0.032
+Rychlejší rozvoj,2009,39,PL,0.006,0.04
+Rychlejší rozvoj,2009,39,DE,0.032,0.024
+Rychlejší rozvoj,2009,40,AT,0.019,0.015
+Rychlejší rozvoj,2009,40,SK,0.001,0.103
+Rychlejší rozvoj,2009,40,PL,0.033,0.047
+Rychlejší rozvoj,2009,40,DE,0.2,0.012
+Rychlejší rozvoj,2009,41,AT,0.046,0.003
+Rychlejší rozvoj,2009,41,SK,0.002,0.062
+Rychlejší rozvoj,2009,41,PL,0.016,0.039
+Rychlejší rozvoj,2009,41,DE,0.108,0.006
+Rychlejší rozvoj,2009,42,AT,0.051,0.002
+Rychlejší rozvoj,2009,42,SK,0.005,0.083
+Rychlejší rozvoj,2009,42,PL,0.006,0.076
+Rychlejší rozvoj,2009,42,DE,0.195,0.01
+Rychlejší rozvoj,2009,43,AT,0.033,0.005
+Rychlejší rozvoj,2009,43,SK,0.002,0.037
+Rychlejší rozvoj,2009,43,PL,0.001,0.067
+Rychlejší rozvoj,2009,43,DE,0.08,0.026
+Rychlejší rozvoj,2009,44,AT,0.029,0.004
+Rychlejší rozvoj,2009,44,SK,0.007,0.053
+Rychlejší rozvoj,2009,44,PL,0.013,0.043
+Rychlejší rozvoj,2009,44,DE,0.125,0.002
+Rychlejší rozvoj,2009,45,AT,0.031,0.009
+Rychlejší rozvoj,2009,45,SK,0,0.037
+Rychlejší rozvoj,2009,45,PL,0.01,0.057
+Rychlejší rozvoj,2009,45,DE,0.061,0.005
+Rychlejší rozvoj,2009,46,AT,0.024,0.012
+Rychlejší rozvoj,2009,46,SK,0.001,0.079
+Rychlejší rozvoj,2009,46,PL,0.005,0.065
+Rychlejší rozvoj,2009,46,DE,0.202,0
+Rychlejší rozvoj,2009,47,AT,0.024,0.016
+Rychlejší rozvoj,2009,47,SK,0,0.174
+Rychlejší rozvoj,2009,47,PL,0.015,0.055
+Rychlejší rozvoj,2009,47,DE,0.329,0.004
+Rychlejší rozvoj,2009,48,AT,0.016,0.011
+Rychlejší rozvoj,2009,48,SK,0.008,0.068
+Rychlejší rozvoj,2009,48,PL,0.019,0.044
+Rychlejší rozvoj,2009,48,DE,0.162,0.027
+Rychlejší rozvoj,2009,49,AT,0.021,0.001
+Rychlejší rozvoj,2009,49,SK,0,0.092
+Rychlejší rozvoj,2009,49,PL,0.006,0.079
+Rychlejší rozvoj,2009,49,DE,0.112,0.007
+Rychlejší rozvoj,2009,50,AT,0.046,0.006
+Rychlejší rozvoj,2009,50,SK,0.004,0.046
+Rychlejší rozvoj,2009,50,PL,0.009,0.071
+Rychlejší rozvoj,2009,50,DE,0.121,0.001
+Rychlejší rozvoj,2009,51,AT,0.044,0.006
+Rychlejší rozvoj,2009,51,SK,0.009,0.048
+Rychlejší rozvoj,2009,51,PL,0.015,0.059
+Rychlejší rozvoj,2009,51,DE,0.135,0.009
+Rychlejší rozvoj,2009,52,AT,0.016,0.013
+Rychlejší rozvoj,2009,52,SK,0.005,0.047
+Rychlejší rozvoj,2009,52,PL,0.007,0.049
+Rychlejší rozvoj,2009,52,DE,0.06,0.031
+Kritický,2009,1,AT,0.052,0.008
+Kritický,2009,1,SK,0.014,0.013
+Kritický,2009,1,PL,0.049,0.018
+Kritický,2009,1,DE,0.178,0.011
+Kritický,2009,2,AT,0.048,0.002
+Kritický,2009,2,SK,0.009,0.049
+Kritický,2009,2,PL,0.063,0.004
+Kritický,2009,2,DE,0.208,0.003
+Kritický,2009,3,AT,0.056,0
+Kritický,2009,3,SK,0.009,0.045
+Kritický,2009,3,PL,0.025,0.018
+Kritický,2009,3,DE,0.231,0.001
+Kritický,2009,4,AT,0.064,0.001
+Kritický,2009,4,SK,0.009,0.032
+Kritický,2009,4,PL,0.019,0.03
+Kritický,2009,4,DE,0.183,0.006
+Kritický,2009,5,AT,0.058,0.001
+Kritický,2009,5,SK,0.015,0.025
+Kritický,2009,5,PL,0.018,0.03
+Kritický,2009,5,DE,0.165,0.009
+Kritický,2009,6,AT,0.069,0.001
+Kritický,2009,6,SK,0.032,0.015
+Kritický,2009,6,PL,0.017,0.033
+Kritický,2009,6,DE,0.191,0.017
+Kritický,2009,7,AT,0.075,0
+Kritický,2009,7,SK,0.03,0.028
+Kritický,2009,7,PL,0.023,0.025
+Kritický,2009,7,DE,0.136,0.011
+Kritický,2009,8,AT,0.06,0
+Kritický,2009,8,SK,0.019,0.037
+Kritický,2009,8,PL,0.022,0.032
+Kritický,2009,8,DE,0.183,0.001
+Kritický,2009,9,AT,0.058,0.002
+Kritický,2009,9,SK,0.016,0.049
+Kritický,2009,9,PL,0.031,0.033
+Kritický,2009,9,DE,0.16,0.008
+Kritický,2009,10,AT,0.076,0
+Kritický,2009,10,SK,0.014,0.026
+Kritický,2009,10,PL,0.012,0.039
+Kritický,2009,10,DE,0.091,0.007
+Kritický,2009,11,AT,0.062,0.002
+Kritický,2009,11,SK,0.03,0.029
+Kritický,2009,11,PL,0.015,0.04
+Kritický,2009,11,DE,0.104,0.021
+Kritický,2009,12,AT,0.078,0.001
+Kritický,2009,12,SK,0.019,0.037
+Kritický,2009,12,PL,0.018,0.049
+Kritický,2009,12,DE,0.166,0.018
+Kritický,2009,13,AT,0.057,0.006
+Kritický,2009,13,SK,0.012,0.022
+Kritický,2009,13,PL,0.013,0.047
+Kritický,2009,13,DE,0.137,0.012
+Kritický,2009,14,AT,0.038,0.001
+Kritický,2009,14,SK,0.008,0.047
+Kritický,2009,14,PL,0.002,0.051
+Kritický,2009,14,DE,0.073,0.021
+Kritický,2009,15,AT,0.063,0
+Kritický,2009,15,SK,0.007,0.047
+Kritický,2009,15,PL,0.004,0.063
+Kritický,2009,15,DE,0.115,0.011
+Kritický,2009,16,AT,0.078,0.001
+Kritický,2009,16,SK,0.004,0.046
+Kritický,2009,16,PL,0.007,0.051
+Kritický,2009,16,DE,0.158,0.006
+Kritický,2009,17,AT,0.079,0.005
+Kritický,2009,17,SK,0.011,0.041
+Kritický,2009,17,PL,0.02,0.025
+Kritický,2009,17,DE,0.102,0.014
+Kritický,2009,18,AT,0.09,0
+Kritický,2009,18,SK,0.005,0.078
+Kritický,2009,18,PL,0.019,0.031
+Kritický,2009,18,DE,0.156,0.004
+Kritický,2009,19,AT,0.062,0.006
+Kritický,2009,19,SK,0.004,0.078
+Kritický,2009,19,PL,0.015,0.059
+Kritický,2009,19,DE,0.212,0.007
+Kritický,2009,20,AT,0.075,0.002
+Kritický,2009,20,SK,0.007,0.048
+Kritický,2009,20,PL,0.011,0.063
+Kritický,2009,20,DE,0.193,0.013
+Kritický,2009,21,AT,0.068,0.001
+Kritický,2009,21,SK,0.004,0.084
+Kritický,2009,21,PL,0.016,0.051
+Kritický,2009,21,DE,0.175,0.009
+Kritický,2009,22,AT,0.085,0
+Kritický,2009,22,SK,0.003,0.06
+Kritický,2009,22,PL,0.019,0.045
+Kritický,2009,22,DE,0.211,0.002
+Kritický,2009,23,AT,0.062,0
+Kritický,2009,23,SK,0.008,0.054
+Kritický,2009,23,PL,0.007,0.057
+Kritický,2009,23,DE,0.136,0.021
+Kritický,2009,24,AT,0.072,0.004
+Kritický,2009,24,SK,0,0.079
+Kritický,2009,24,PL,0.02,0.055
+Kritický,2009,24,DE,0.185,0.002
+Kritický,2009,25,AT,0.089,0
+Kritický,2009,25,SK,0.007,0.069
+Kritický,2009,25,PL,0.023,0.038
+Kritický,2009,25,DE,0.197,0.01
+Kritický,2009,26,AT,0.065,0.002
+Kritický,2009,26,SK,0.007,0.027
+Kritický,2009,26,PL,0.003,0.062
+Kritický,2009,26,DE,0.119,0.011
+Kritický,2009,27,AT,0.072,0.001
+Kritický,2009,27,SK,0.002,0.044
+Kritický,2009,27,PL,0.002,0.054
+Kritický,2009,27,DE,0.144,0.004
+Kritický,2009,28,AT,0.078,0
+Kritický,2009,28,SK,0.007,0.041
+Kritický,2009,28,PL,0.015,0.044
+Kritický,2009,28,DE,0.179,0.002
+Kritický,2009,29,AT,0.09,0.001
+Kritický,2009,29,SK,0.01,0.055
+Kritický,2009,29,PL,0.015,0.053
+Kritický,2009,29,DE,0.195,0.01
+Kritický,2009,30,AT,0.094,0
+Kritický,2009,30,SK,0.012,0.044
+Kritický,2009,30,PL,0.005,0.052
+Kritický,2009,30,DE,0.16,0.011
+Kritický,2009,31,AT,0.074,0.001
+Kritický,2009,31,SK,0.009,0.027
+Kritický,2009,31,PL,0.007,0.048
+Kritický,2009,31,DE,0.14,0.012
+Kritický,2009,32,AT,0.061,0.002
+Kritický,2009,32,SK,0.006,0.028
+Kritický,2009,32,PL,0.012,0.039
+Kritický,2009,32,DE,0.11,0.005
+Kritický,2009,33,AT,0.044,0.007
+Kritický,2009,33,SK,0.008,0.031
+Kritický,2009,33,PL,0.024,0.026
+Kritický,2009,33,DE,0.123,0.013
+Kritický,2009,34,AT,0.045,0.006
+Kritický,2009,34,SK,0.01,0.029
+Kritický,2009,34,PL,0.015,0.031
+Kritický,2009,34,DE,0.137,0.016
+Kritický,2009,35,AT,0.058,0.007
+Kritický,2009,35,SK,0.011,0.051
+Kritický,2009,35,PL,0.012,0.052
+Kritický,2009,35,DE,0.212,0.015
+Kritický,2009,36,AT,0.063,0.005
+Kritický,2009,36,SK,0.006,0.037
+Kritický,2009,36,PL,0.016,0.034
+Kritický,2009,36,DE,0.221,0.007
+Kritický,2009,37,AT,0.049,0.001
+Kritický,2009,37,SK,0.003,0.033
+Kritický,2009,37,PL,0.005,0.047
+Kritický,2009,37,DE,0.15,0.001
+Kritický,2009,38,AT,0.042,0.007
+Kritický,2009,38,SK,0.008,0.027
+Kritický,2009,38,PL,0.026,0.025
+Kritický,2009,38,DE,0.152,0.003
+Kritický,2009,39,AT,0.038,0.006
+Kritický,2009,39,SK,0.008,0.018
+Kritický,2009,39,PL,0.023,0.018
+Kritický,2009,39,DE,0.065,0.015
+Kritický,2009,40,AT,0.028,0.002
+Kritický,2009,40,SK,0.003,0.046
+Kritický,2009,40,PL,0.043,0.026
+Kritický,2009,40,DE,0.196,0.002
+Kritický,2009,41,AT,0.058,0.001
+Kritický,2009,41,SK,0.005,0.043
+Kritický,2009,41,PL,0.029,0.023
+Kritický,2009,41,DE,0.161,0.003
+Kritický,2009,42,AT,0.063,0
+Kritický,2009,42,SK,0.004,0.043
+Kritický,2009,42,PL,0.011,0.05
+Kritický,2009,42,DE,0.201,0.006
+Kritický,2009,43,AT,0.043,0.003
+Kritický,2009,43,SK,0.005,0.035
+Kritický,2009,43,PL,0.004,0.045
+Kritický,2009,43,DE,0.107,0.016
+Kritický,2009,44,AT,0.043,0.003
+Kritický,2009,44,SK,0.014,0.029
+Kritický,2009,44,PL,0.019,0.025
+Kritický,2009,44,DE,0.156,0.004
+Kritický,2009,45,AT,0.041,0.007
+Kritický,2009,45,SK,0.002,0.026
+Kritický,2009,45,PL,0.013,0.034
+Kritický,2009,45,DE,0.114,0.002
+Kritický,2009,46,AT,0.034,0.006
+Kritický,2009,46,SK,0.003,0.058
+Kritický,2009,46,PL,0.019,0.044
+Kritický,2009,46,DE,0.191,0.001
+Kritický,2009,47,AT,0.027,0.006
+Kritický,2009,47,SK,0,0.105
+Kritický,2009,47,PL,0.018,0.025
+Kritický,2009,47,DE,0.294,0
+Kritický,2009,48,AT,0.032,0.01
+Kritický,2009,48,SK,0.014,0.047
+Kritický,2009,48,PL,0.023,0.026
+Kritický,2009,48,DE,0.179,0.032
+Kritický,2009,49,AT,0.041,0.003
+Kritický,2009,49,SK,0.001,0.067
+Kritický,2009,49,PL,0.009,0.051
+Kritický,2009,49,DE,0.152,0.005
+Kritický,2009,50,AT,0.053,0.002
+Kritický,2009,50,SK,0.004,0.028
+Kritický,2009,50,PL,0.014,0.049
+Kritický,2009,50,DE,0.169,0.002
+Kritický,2009,51,AT,0.059,0.004
+Kritický,2009,51,SK,0.013,0.034
+Kritický,2009,51,PL,0.032,0.042
+Kritický,2009,51,DE,0.202,0.009
+Kritický,2009,52,AT,0.034,0.007
+Kritický,2009,52,SK,0.011,0.035
+Kritický,2009,52,PL,0.016,0.032
+Kritický,2009,52,DE,0.098,0.011
+Pomalejší rozvoj,2009,1,AT,0.051,0.009
+Pomalejší rozvoj,2009,1,SK,0.006,0.018
+Pomalejší rozvoj,2009,1,PL,0.04,0.032
+Pomalejší rozvoj,2009,1,DE,0.18,0.009
+Pomalejší rozvoj,2009,2,AT,0.044,0.003
+Pomalejší rozvoj,2009,2,SK,0.011,0.042
+Pomalejší rozvoj,2009,2,PL,0.046,0.012
+Pomalejší rozvoj,2009,2,DE,0.185,0.01
+Pomalejší rozvoj,2009,3,AT,0.046,0.001
+Pomalejší rozvoj,2009,3,SK,0,0.06
+Pomalejší rozvoj,2009,3,PL,0.016,0.047
+Pomalejší rozvoj,2009,3,DE,0.252,0
+Pomalejší rozvoj,2009,4,AT,0.067,0
+Pomalejší rozvoj,2009,4,SK,0.003,0.042
+Pomalejší rozvoj,2009,4,PL,0.014,0.057
+Pomalejší rozvoj,2009,4,DE,0.177,0.001
+Pomalejší rozvoj,2009,5,AT,0.054,0
+Pomalejší rozvoj,2009,5,SK,0.012,0.033
+Pomalejší rozvoj,2009,5,PL,0.005,0.049
+Pomalejší rozvoj,2009,5,DE,0.169,0.008
+Pomalejší rozvoj,2009,6,AT,0.059,0.001
+Pomalejší rozvoj,2009,6,SK,0.025,0.018
+Pomalejší rozvoj,2009,6,PL,0.009,0.052
+Pomalejší rozvoj,2009,6,DE,0.184,0.019
+Pomalejší rozvoj,2009,7,AT,0.078,0
+Pomalejší rozvoj,2009,7,SK,0.026,0.023
+Pomalejší rozvoj,2009,7,PL,0.015,0.034
+Pomalejší rozvoj,2009,7,DE,0.097,0.013
+Pomalejší rozvoj,2009,8,AT,0.052,0.001
+Pomalejší rozvoj,2009,8,SK,0.022,0.048
+Pomalejší rozvoj,2009,8,PL,0.015,0.049
+Pomalejší rozvoj,2009,8,DE,0.175,0.001
+Pomalejší rozvoj,2009,9,AT,0.055,0.004
+Pomalejší rozvoj,2009,9,SK,0.009,0.058
+Pomalejší rozvoj,2009,9,PL,0.024,0.049
+Pomalejší rozvoj,2009,9,DE,0.149,0.005
+Pomalejší rozvoj,2009,10,AT,0.071,0.002
+Pomalejší rozvoj,2009,10,SK,0.004,0.022
+Pomalejší rozvoj,2009,10,PL,0.006,0.051
+Pomalejší rozvoj,2009,10,DE,0.081,0.004
+Pomalejší rozvoj,2009,11,AT,0.061,0.003
+Pomalejší rozvoj,2009,11,SK,0.02,0.038
+Pomalejší rozvoj,2009,11,PL,0.01,0.06
+Pomalejší rozvoj,2009,11,DE,0.093,0.019
+Pomalejší rozvoj,2009,12,AT,0.081,0.002
+Pomalejší rozvoj,2009,12,SK,0.014,0.065
+Pomalejší rozvoj,2009,12,PL,0.011,0.068
+Pomalejší rozvoj,2009,12,DE,0.187,0.022
+Pomalejší rozvoj,2009,13,AT,0.049,0.008
+Pomalejší rozvoj,2009,13,SK,0.008,0.038
+Pomalejší rozvoj,2009,13,PL,0.008,0.066
+Pomalejší rozvoj,2009,13,DE,0.136,0.01
+Pomalejší rozvoj,2009,14,AT,0.033,0.003
+Pomalejší rozvoj,2009,14,SK,0.007,0.054
+Pomalejší rozvoj,2009,14,PL,0,0.069
+Pomalejší rozvoj,2009,14,DE,0.069,0.019
+Pomalejší rozvoj,2009,15,AT,0.064,0.001
+Pomalejší rozvoj,2009,15,SK,0.003,0.066
+Pomalejší rozvoj,2009,15,PL,0.001,0.088
+Pomalejší rozvoj,2009,15,DE,0.129,0.007
+Pomalejší rozvoj,2009,16,AT,0.08,0.001
+Pomalejší rozvoj,2009,16,SK,0.001,0.061
+Pomalejší rozvoj,2009,16,PL,0.001,0.077
+Pomalejší rozvoj,2009,16,DE,0.149,0.003
+Pomalejší rozvoj,2009,17,AT,0.09,0.003
+Pomalejší rozvoj,2009,17,SK,0.009,0.063
+Pomalejší rozvoj,2009,17,PL,0.018,0.044
+Pomalejší rozvoj,2009,17,DE,0.107,0.015
+Pomalejší rozvoj,2009,18,AT,0.103,0.001
+Pomalejší rozvoj,2009,18,SK,0.002,0.11
+Pomalejší rozvoj,2009,18,PL,0.017,0.054
+Pomalejší rozvoj,2009,18,DE,0.194,0.003
+Pomalejší rozvoj,2009,19,AT,0.064,0.008
+Pomalejší rozvoj,2009,19,SK,0.005,0.126
+Pomalejší rozvoj,2009,19,PL,0.012,0.082
+Pomalejší rozvoj,2009,19,DE,0.282,0.006
+Pomalejší rozvoj,2009,20,AT,0.083,0.003
+Pomalejší rozvoj,2009,20,SK,0.005,0.087
+Pomalejší rozvoj,2009,20,PL,0.006,0.085
+Pomalejší rozvoj,2009,20,DE,0.239,0.01
+Pomalejší rozvoj,2009,21,AT,0.073,0.001
+Pomalejší rozvoj,2009,21,SK,0.003,0.112
+Pomalejší rozvoj,2009,21,PL,0.012,0.075
+Pomalejší rozvoj,2009,21,DE,0.202,0.005
+Pomalejší rozvoj,2009,22,AT,0.102,0
+Pomalejší rozvoj,2009,22,SK,0,0.101
+Pomalejší rozvoj,2009,22,PL,0.015,0.069
+Pomalejší rozvoj,2009,22,DE,0.267,0
+Pomalejší rozvoj,2009,23,AT,0.06,0.001
+Pomalejší rozvoj,2009,23,SK,0.006,0.071
+Pomalejší rozvoj,2009,23,PL,0.005,0.074
+Pomalejší rozvoj,2009,23,DE,0.142,0.021
+Pomalejší rozvoj,2009,24,AT,0.076,0.005
+Pomalejší rozvoj,2009,24,SK,0,0.11
+Pomalejší rozvoj,2009,24,PL,0.016,0.076
+Pomalejší rozvoj,2009,24,DE,0.208,0.001
+Pomalejší rozvoj,2009,25,AT,0.088,0
+Pomalejší rozvoj,2009,25,SK,0.001,0.104
+Pomalejší rozvoj,2009,25,PL,0.021,0.065
+Pomalejší rozvoj,2009,25,DE,0.24,0.001
+Pomalejší rozvoj,2009,26,AT,0.068,0.002
+Pomalejší rozvoj,2009,26,SK,0.004,0.045
+Pomalejší rozvoj,2009,26,PL,0.002,0.093
+Pomalejší rozvoj,2009,26,DE,0.138,0.007
+Pomalejší rozvoj,2009,27,AT,0.075,0
+Pomalejší rozvoj,2009,27,SK,0.002,0.062
+Pomalejší rozvoj,2009,27,PL,0,0.081
+Pomalejší rozvoj,2009,27,DE,0.17,0.003
+Pomalejší rozvoj,2009,28,AT,0.088,0
+Pomalejší rozvoj,2009,28,SK,0.001,0.077
+Pomalejší rozvoj,2009,28,PL,0.013,0.069
+Pomalejší rozvoj,2009,28,DE,0.198,0.001
+Pomalejší rozvoj,2009,29,AT,0.108,0
+Pomalejší rozvoj,2009,29,SK,0.005,0.091
+Pomalejší rozvoj,2009,29,PL,0.004,0.084
+Pomalejší rozvoj,2009,29,DE,0.248,0.007
+Pomalejší rozvoj,2009,30,AT,0.104,0
+Pomalejší rozvoj,2009,30,SK,0.004,0.082
+Pomalejší rozvoj,2009,30,PL,0.005,0.083
+Pomalejší rozvoj,2009,30,DE,0.209,0.007
+Pomalejší rozvoj,2009,31,AT,0.089,0
+Pomalejší rozvoj,2009,31,SK,0.006,0.058
+Pomalejší rozvoj,2009,31,PL,0.003,0.073
+Pomalejší rozvoj,2009,31,DE,0.17,0.012
+Pomalejší rozvoj,2009,32,AT,0.062,0.003
+Pomalejší rozvoj,2009,32,SK,0.003,0.049
+Pomalejší rozvoj,2009,32,PL,0.006,0.052
+Pomalejší rozvoj,2009,32,DE,0.115,0.007
+Pomalejší rozvoj,2009,33,AT,0.048,0.011
+Pomalejší rozvoj,2009,33,SK,0.006,0.051
+Pomalejší rozvoj,2009,33,PL,0.024,0.04
+Pomalejší rozvoj,2009,33,DE,0.14,0.009
+Pomalejší rozvoj,2009,34,AT,0.049,0.005
+Pomalejší rozvoj,2009,34,SK,0.007,0.047
+Pomalejší rozvoj,2009,34,PL,0.007,0.058
+Pomalejší rozvoj,2009,34,DE,0.143,0.013
+Pomalejší rozvoj,2009,35,AT,0.068,0.003
+Pomalejší rozvoj,2009,35,SK,0.008,0.091
+Pomalejší rozvoj,2009,35,PL,0.007,0.076
+Pomalejší rozvoj,2009,35,DE,0.254,0.013
+Pomalejší rozvoj,2009,36,AT,0.078,0.011
+Pomalejší rozvoj,2009,36,SK,0.004,0.076
+Pomalejší rozvoj,2009,36,PL,0.01,0.064
+Pomalejší rozvoj,2009,36,DE,0.269,0.008
+Pomalejší rozvoj,2009,37,AT,0.047,0.002
+Pomalejší rozvoj,2009,37,SK,0.004,0.045
+Pomalejší rozvoj,2009,37,PL,0.004,0.069
+Pomalejší rozvoj,2009,37,DE,0.148,0.004
+Pomalejší rozvoj,2009,38,AT,0.045,0.006
+Pomalejší rozvoj,2009,38,SK,0.003,0.042
+Pomalejší rozvoj,2009,38,PL,0.018,0.038
+Pomalejší rozvoj,2009,38,DE,0.141,0.002
+Pomalejší rozvoj,2009,39,AT,0.04,0.008
+Pomalejší rozvoj,2009,39,SK,0.005,0.021
+Pomalejší rozvoj,2009,39,PL,0.011,0.029
+Pomalejší rozvoj,2009,39,DE,0.05,0.014
+Pomalejší rozvoj,2009,40,AT,0.03,0.003
+Pomalejší rozvoj,2009,40,SK,0.003,0.083
+Pomalejší rozvoj,2009,40,PL,0.037,0.04
+Pomalejší rozvoj,2009,40,DE,0.22,0.005
+Pomalejší rozvoj,2009,41,AT,0.063,0
+Pomalejší rozvoj,2009,41,SK,0.002,0.054
+Pomalejší rozvoj,2009,41,PL,0.02,0.033
+Pomalejší rozvoj,2009,41,DE,0.143,0.003
+Pomalejší rozvoj,2009,42,AT,0.062,0
+Pomalejší rozvoj,2009,42,SK,0.006,0.062
+Pomalejší rozvoj,2009,42,PL,0.009,0.07
+Pomalejší rozvoj,2009,42,DE,0.231,0.008
+Pomalejší rozvoj,2009,43,AT,0.04,0.005
+Pomalejší rozvoj,2009,43,SK,0.003,0.035
+Pomalejší rozvoj,2009,43,PL,0.001,0.059
+Pomalejší rozvoj,2009,43,DE,0.1,0.018
+Pomalejší rozvoj,2009,44,AT,0.04,0.003
+Pomalejší rozvoj,2009,44,SK,0.012,0.042
+Pomalejší rozvoj,2009,44,PL,0.016,0.038
+Pomalejší rozvoj,2009,44,DE,0.164,0
+Pomalejší rozvoj,2009,45,AT,0.044,0.006
+Pomalejší rozvoj,2009,45,SK,0.001,0.029
+Pomalejší rozvoj,2009,45,PL,0.014,0.049
+Pomalejší rozvoj,2009,45,DE,0.093,0
+Pomalejší rozvoj,2009,46,AT,0.037,0.004
+Pomalejší rozvoj,2009,46,SK,0.002,0.072
+Pomalejší rozvoj,2009,46,PL,0.009,0.06
+Pomalejší rozvoj,2009,46,DE,0.243,0
+Pomalejší rozvoj,2009,47,AT,0.032,0.003
+Pomalejší rozvoj,2009,47,SK,0,0.153
+Pomalejší rozvoj,2009,47,PL,0.018,0.041
+Pomalejší rozvoj,2009,47,DE,0.354,0
+Pomalejší rozvoj,2009,48,AT,0.026,0.007
+Pomalejší rozvoj,2009,48,SK,0.011,0.052
+Pomalejší rozvoj,2009,48,PL,0.022,0.032
+Pomalejší rozvoj,2009,48,DE,0.188,0.022
+Pomalejší rozvoj,2009,49,AT,0.032,0.001
+Pomalejší rozvoj,2009,49,SK,0,0.082
+Pomalejší rozvoj,2009,49,PL,0.007,0.074
+Pomalejší rozvoj,2009,49,DE,0.146,0.003
+Pomalejší rozvoj,2009,50,AT,0.049,0.006
+Pomalejší rozvoj,2009,50,SK,0.005,0.038
+Pomalejší rozvoj,2009,50,PL,0.01,0.066
+Pomalejší rozvoj,2009,50,DE,0.156,0
+Pomalejší rozvoj,2009,51,AT,0.052,0.002
+Pomalejší rozvoj,2009,51,SK,0.011,0.038
+Pomalejší rozvoj,2009,51,PL,0.021,0.054
+Pomalejší rozvoj,2009,51,DE,0.168,0.007
+Pomalejší rozvoj,2009,52,AT,0.027,0.008
+Pomalejší rozvoj,2009,52,SK,0.009,0.039
+Pomalejší rozvoj,2009,52,PL,0.008,0.043
+Pomalejší rozvoj,2009,52,DE,0.085,0.016
+Superkritický,2009,1,AT,0.082,0.003
+Superkritický,2009,1,SK,0.04,0.044
+Superkritický,2009,1,PL,0.078,0.012
+Superkritický,2009,1,DE,0.298,0
+Superkritický,2009,2,AT,0.101,0
+Superkritický,2009,2,SK,0.031,0.036
+Superkritický,2009,2,PL,0.096,0.002
+Superkritický,2009,2,DE,0.318,0
+Superkritický,2009,3,AT,0.097,0
+Superkritický,2009,3,SK,0.017,0.036
+Superkritický,2009,3,PL,0.028,0.005
+Superkritický,2009,3,DE,0.316,0
+Superkritický,2009,4,AT,0.102,0
+Superkritický,2009,4,SK,0.015,0.039
+Superkritický,2009,4,PL,0.037,0.026
+Superkritický,2009,4,DE,0.288,0
+Superkritický,2009,5,AT,0.079,0
+Superkritický,2009,5,SK,0.012,0.04
+Superkritický,2009,5,PL,0.034,0.015
+Superkritický,2009,5,DE,0.273,0
+Superkritický,2009,6,AT,0.077,0
+Superkritický,2009,6,SK,0.028,0.025
+Superkritický,2009,6,PL,0.021,0.038
+Superkritický,2009,6,DE,0.269,0.001
+Superkritický,2009,7,AT,0.093,0
+Superkritický,2009,7,SK,0.023,0.022
+Superkritický,2009,7,PL,0.045,0.016
+Superkritický,2009,7,DE,0.275,0
+Superkritický,2009,8,AT,0.087,0
+Superkritický,2009,8,SK,0.025,0.041
+Superkritický,2009,8,PL,0.032,0.014
+Superkritický,2009,8,DE,0.314,0
+Superkritický,2009,9,AT,0.072,0
+Superkritický,2009,9,SK,0.009,0.075
+Superkritický,2009,9,PL,0.034,0.022
+Superkritický,2009,9,DE,0.286,0
+Superkritický,2009,10,AT,0.09,0
+Superkritický,2009,10,SK,0.005,0.071
+Superkritický,2009,10,PL,0.006,0.036
+Superkritický,2009,10,DE,0.183,0
+Superkritický,2009,11,AT,0.091,0
+Superkritický,2009,11,SK,0.013,0.056
+Superkritický,2009,11,PL,0,0.051
+Superkritický,2009,11,DE,0.157,0.004
+Superkritický,2009,12,AT,0.092,0
+Superkritický,2009,12,SK,0.011,0.051
+Superkritický,2009,12,PL,0.002,0.035
+Superkritický,2009,12,DE,0.205,0.002
+Superkritický,2009,13,AT,0.074,0
+Superkritický,2009,13,SK,0.002,0.055
+Superkritický,2009,13,PL,0.004,0.046
+Superkritický,2009,13,DE,0.209,0.001
+Superkritický,2009,14,AT,0.082,0
+Superkritický,2009,14,SK,0,0.086
+Superkritický,2009,14,PL,0.001,0.047
+Superkritický,2009,14,DE,0.177,0.002
+Superkritický,2009,15,AT,0.096,0
+Superkritický,2009,15,SK,0.001,0.067
+Superkritický,2009,15,PL,0,0.057
+Superkritický,2009,15,DE,0.215,0.002
+Superkritický,2009,16,AT,0.092,0
+Superkritický,2009,16,SK,0.001,0.08
+Superkritický,2009,16,PL,0.001,0.041
+Superkritický,2009,16,DE,0.277,0
+Superkritický,2009,17,AT,0.086,0
+Superkritický,2009,17,SK,0.001,0.07
+Superkritický,2009,17,PL,0.002,0.04
+Superkritický,2009,17,DE,0.269,0
+Superkritický,2009,18,AT,0.089,0
+Superkritický,2009,18,SK,0.001,0.085
+Superkritický,2009,18,PL,0.004,0.044
+Superkritický,2009,18,DE,0.257,0
+Superkritický,2009,19,AT,0.085,0
+Superkritický,2009,19,SK,0,0.074
+Superkritický,2009,19,PL,0.003,0.047
+Superkritický,2009,19,DE,0.269,0
+Superkritický,2009,20,AT,0.092,0
+Superkritický,2009,20,SK,0,0.076
+Superkritický,2009,20,PL,0.003,0.045
+Superkritický,2009,20,DE,0.285,0
+Superkritický,2009,21,AT,0.093,0
+Superkritický,2009,21,SK,0,0.105
+Superkritický,2009,21,PL,0.004,0.044
+Superkritický,2009,21,DE,0.28,0
+Superkritický,2009,22,AT,0.095,0
+Superkritický,2009,22,SK,0,0.095
+Superkritický,2009,22,PL,0.007,0.043
+Superkritický,2009,22,DE,0.274,0
+Superkritický,2009,23,AT,0.077,0
+Superkritický,2009,23,SK,0,0.1
+Superkritický,2009,23,PL,0,0.045
+Superkritický,2009,23,DE,0.272,0
+Superkritický,2009,24,AT,0.085,0
+Superkritický,2009,24,SK,0,0.086
+Superkritický,2009,24,PL,0.003,0.05
+Superkritický,2009,24,DE,0.26,0
+Superkritický,2009,25,AT,0.096,0
+Superkritický,2009,25,SK,0,0.086
+Superkritický,2009,25,PL,0.001,0.051
+Superkritický,2009,25,DE,0.23,0
+Superkritický,2009,26,AT,0.097,0
+Superkritický,2009,26,SK,0,0.083
+Superkritický,2009,26,PL,0,0.052
+Superkritický,2009,26,DE,0.238,0
+Superkritický,2009,27,AT,0.097,0
+Superkritický,2009,27,SK,0,0.066
+Superkritický,2009,27,PL,0.002,0.047
+Superkritický,2009,27,DE,0.204,0
+Superkritický,2009,28,AT,0.093,0
+Superkritický,2009,28,SK,0,0.086
+Superkritický,2009,28,PL,0.001,0.041
+Superkritický,2009,28,DE,0.263,0
+Superkritický,2009,29,AT,0.079,0
+Superkritický,2009,29,SK,0,0.077
+Superkritický,2009,29,PL,0.003,0.04
+Superkritický,2009,29,DE,0.267,0
+Superkritický,2009,30,AT,0.076,0
+Superkritický,2009,30,SK,0,0.079
+Superkritický,2009,30,PL,0,0.041
+Superkritický,2009,30,DE,0.275,0
+Superkritický,2009,31,AT,0.084,0
+Superkritický,2009,31,SK,0,0.084
+Superkritický,2009,31,PL,0,0.035
+Superkritický,2009,31,DE,0.25,0
+Superkritický,2009,32,AT,0.088,0
+Superkritický,2009,32,SK,0.001,0.075
+Superkritický,2009,32,PL,0.005,0.037
+Superkritický,2009,32,DE,0.241,0
+Superkritický,2009,33,AT,0.08,0
+Superkritický,2009,33,SK,0,0.08
+Superkritický,2009,33,PL,0.005,0.042
+Superkritický,2009,33,DE,0.261,0
+Superkritický,2009,34,AT,0.077,0
+Superkritický,2009,34,SK,0.001,0.078
+Superkritický,2009,34,PL,0.003,0.04
+Superkritický,2009,34,DE,0.243,0
+Superkritický,2009,35,AT,0.071,0
+Superkritický,2009,35,SK,0.001,0.081
+Superkritický,2009,35,PL,0.001,0.049
+Superkritický,2009,35,DE,0.276,0
+Superkritický,2009,36,AT,0.073,0
+Superkritický,2009,36,SK,0,0.076
+Superkritický,2009,36,PL,0.002,0.049
+Superkritický,2009,36,DE,0.277,0
+Superkritický,2009,37,AT,0.058,0
+Superkritický,2009,37,SK,0,0.102
+Superkritický,2009,37,PL,0,0.047
+Superkritický,2009,37,DE,0.298,0
+Superkritický,2009,38,AT,0.038,0
+Superkritický,2009,38,SK,0.001,0.086
+Superkritický,2009,38,PL,0.008,0.042
+Superkritický,2009,38,DE,0.19,0
+Superkritický,2009,39,AT,0.042,0.001
+Superkritický,2009,39,SK,0,0.089
+Superkritický,2009,39,PL,0.005,0.039
+Superkritický,2009,39,DE,0.18,0.002
+Superkritický,2009,40,AT,0.037,0
+Superkritický,2009,40,SK,0,0.101
+Superkritický,2009,40,PL,0.007,0.039
+Superkritický,2009,40,DE,0.262,0
+Superkritický,2009,41,AT,0.059,0.001
+Superkritický,2009,41,SK,0,0.103
+Superkritický,2009,41,PL,0.007,0.037
+Superkritický,2009,41,DE,0.211,0.001
+Superkritický,2009,42,AT,0.061,0
+Superkritický,2009,42,SK,0,0.12
+Superkritický,2009,42,PL,0.001,0.047
+Superkritický,2009,42,DE,0.268,0
+Superkritický,2009,43,AT,0.055,0
+Superkritický,2009,43,SK,0.001,0.073
+Superkritický,2009,43,PL,0.001,0.04
+Superkritický,2009,43,DE,0.179,0.001
+Superkritický,2009,44,AT,0.058,0
+Superkritický,2009,44,SK,0.007,0.079
+Superkritický,2009,44,PL,0.009,0.029
+Superkritický,2009,44,DE,0.216,0
+Superkritický,2009,45,AT,0.057,0.001
+Superkritický,2009,45,SK,0,0.057
+Superkritický,2009,45,PL,0.007,0.028
+Superkritický,2009,45,DE,0.164,0
+Superkritický,2009,46,AT,0.045,0
+Superkritický,2009,46,SK,0.001,0.082
+Superkritický,2009,46,PL,0.004,0.048
+Superkritický,2009,46,DE,0.268,0
+Superkritický,2009,47,AT,0.047,0.001
+Superkritický,2009,47,SK,0,0.114
+Superkritický,2009,47,PL,0.01,0.046
+Superkritický,2009,47,DE,0.298,0
+Superkritický,2009,48,AT,0.039,0.005
+Superkritický,2009,48,SK,0.009,0.076
+Superkritický,2009,48,PL,0.016,0.022
+Superkritický,2009,48,DE,0.235,0.002
+Superkritický,2009,49,AT,0.076,0
+Superkritický,2009,49,SK,0,0.111
+Superkritický,2009,49,PL,0.006,0.063
+Superkritický,2009,49,DE,0.287,0
+Superkritický,2009,50,AT,0.094,0
+Superkritický,2009,50,SK,0.015,0.047
+Superkritický,2009,50,PL,0.009,0.06
+Superkritický,2009,50,DE,0.318,0
+Superkritický,2009,51,AT,0.09,0
+Superkritický,2009,51,SK,0.015,0.026
+Superkritický,2009,51,PL,0.009,0.034
+Superkritický,2009,51,DE,0.272,0
+Superkritický,2009,52,AT,0.047,0.005
+Superkritický,2009,52,SK,0.003,0.082
+Superkritický,2009,52,PL,0.003,0.046
+Superkritický,2009,52,DE,0.183,0.003

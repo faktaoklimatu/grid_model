@@ -1,0 +1,22 @@
+name,region,Demand,Price
+Levnější povolenka,CZ,319.279,81.222
+Levnější povolenka,DE,2846.799,85.606
+Levnější povolenka,PL,843.149,91.178
+Kritický 25,CZ,335.243,111.465
+Kritický 25,DE,2846.799,102.519
+Kritický 25,PL,843.149,150.238
+Dražší povolenka,CZ,319.279,109.21
+Dražší povolenka,DE,2846.799,102.594
+Dražší povolenka,PL,843.149,122.083
+Rychlejší rozvoj,CZ,351.651,93.774
+Rychlejší rozvoj,DE,3142.079,84.609
+Rychlejší rozvoj,PL,902.109,112.387
+Kritický,CZ,369.234,106.488
+Kritický,DE,3142.079,90.372
+Kritický,PL,902.109,115.987
+Pomalejší rozvoj,CZ,351.651,100.329
+Pomalejší rozvoj,DE,3142.079,84.657
+Pomalejší rozvoj,PL,902.109,112.539
+Superkritický,CZ,390.724,160.931
+Superkritický,DE,3142.079,163.675
+Superkritický,PL,902.109,312.593

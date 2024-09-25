@@ -1,0 +1,29 @@
+name,region,source_group,production_TWh
+Levnější povolenka,CZ,"Uhlí, teplárny",13.814
+Levnější povolenka,CZ,"Uhlí, elektrárny",13.961
+Levnější povolenka,CZ,"Zemní plyn, teplárny",2.406
+Levnější povolenka,CZ,"Zemní plyn, elektrárny",0.871
+Dražší povolenka,CZ,"Uhlí, teplárny",7.626
+Dražší povolenka,CZ,"Uhlí, elektrárny",1.965
+Dražší povolenka,CZ,"Zemní plyn, teplárny",6.888
+Dražší povolenka,CZ,"Zemní plyn, elektrárny",6.131
+Kritický 25,CZ,"Uhlí, teplárny",7.436
+Kritický 25,CZ,"Uhlí, elektrárny",3.51
+Kritický 25,CZ,"Zemní plyn, teplárny",6.882
+Kritický 25,CZ,"Zemní plyn, elektrárny",6.132
+Pomalejší rozvoj,CZ,"Uhlí, teplárny",6.784
+Pomalejší rozvoj,CZ,"Uhlí, elektrárny",1.039
+Pomalejší rozvoj,CZ,"Zemní plyn, teplárny",9.018
+Pomalejší rozvoj,CZ,"Zemní plyn, elektrárny",4.136
+Rychlejší rozvoj,CZ,"Uhlí, teplárny",6.109
+Rychlejší rozvoj,CZ,"Uhlí, elektrárny",0.745
+Rychlejší rozvoj,CZ,"Zemní plyn, teplárny",10.984
+Rychlejší rozvoj,CZ,"Zemní plyn, elektrárny",3.182
+Kritický,CZ,"Uhlí, teplárny",6.926
+Kritický,CZ,"Uhlí, elektrárny",1.591
+Kritický,CZ,"Zemní plyn, teplárny",9.325
+Kritický,CZ,"Zemní plyn, elektrárny",5.204
+Superkritický,CZ,"Uhlí, teplárny",9.09
+Superkritický,CZ,"Uhlí, elektrárny",5.377
+Superkritický,CZ,"Zemní plyn, teplárny",7.544
+Superkritický,CZ,"Zemní plyn, elektrárny",6.218

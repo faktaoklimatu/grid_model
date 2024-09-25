@@ -1,0 +1,36 @@
+name,region,source_group,production_TWh
+Levnější povolenka,CZ,Coal,27.775
+Levnější povolenka,CZ,Gas,3.277
+Levnější povolenka,CZ,NetImport,-5.785
+Levnější povolenka,CZ,Nuclear,28.237
+Levnější povolenka,CZ,Renewables,10.445
+Dražší povolenka,CZ,Coal,9.591
+Dražší povolenka,CZ,Gas,13.02
+Dražší povolenka,CZ,NetImport,2.645
+Dražší povolenka,CZ,Nuclear,28.237
+Dražší povolenka,CZ,Renewables,10.443
+Kritický 25,CZ,Coal,10.946
+Kritický 25,CZ,Gas,13.014
+Kritický 25,CZ,NetImport,4.529
+Kritický 25,CZ,Nuclear,28.237
+Kritický 25,CZ,Renewables,10.422
+Pomalejší rozvoj,CZ,Coal,7.823
+Pomalejší rozvoj,CZ,Gas,13.154
+Pomalejší rozvoj,CZ,NetImport,6.572
+Pomalejší rozvoj,CZ,Nuclear,28.237
+Pomalejší rozvoj,CZ,Renewables,14.921
+Rychlejší rozvoj,CZ,Coal,6.854
+Rychlejší rozvoj,CZ,Gas,14.167
+Rychlejší rozvoj,CZ,NetImport,1.969
+Rychlejší rozvoj,CZ,Nuclear,28.237
+Rychlejší rozvoj,CZ,Renewables,19.551
+Kritický,CZ,Coal,8.517
+Kritický,CZ,Gas,14.529
+Kritický,CZ,NetImport,7.992
+Kritický,CZ,Nuclear,28.237
+Kritický,CZ,Renewables,14.951
+Superkritický,CZ,Coal,14.467
+Superkritický,CZ,Gas,13.762
+Superkritický,CZ,NetImport,11.71
+Superkritický,CZ,Nuclear,28.237
+Superkritický,CZ,Renewables,10.033

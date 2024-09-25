@@ -1,0 +1,57 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<svg xmlns='http://www.w3.org/2000/svg' xmlns:xlink='http://www.w3.org/1999/xlink' class='svglite' width='432.00pt' height='108.00pt' viewBox='0 0 432.00 108.00'>
+<defs>
+  <style type='text/css'><![CDATA[
+    .svglite line, .svglite polyline, .svglite polygon, .svglite path, .svglite rect, .svglite circle {
+      fill: none;
+      stroke: #000000;
+      stroke-linecap: round;
+      stroke-linejoin: round;
+      stroke-miterlimit: 10.00;
+    }
+    .svglite text {
+      white-space: pre;
+    }
+  ]]></style>
+</defs>
+<rect width='100%' height='100%' style='stroke: none; fill: none;'/>
+<defs>
+  <clipPath id='cpMC4wMHw0MzIuMDB8MC4wMHwxMDguMDA='>
+    <rect x='0.00' y='0.00' width='432.00' height='108.00' />
+  </clipPath>
+</defs>
+<g clip-path='url(#cpMC4wMHw0MzIuMDB8MC4wMHwxMDguMDA=)'>
+</g>
+<defs>
+  <clipPath id='cpOTAuODZ8NDI2LjUyfDUuNDh8NzUuOTU='>
+    <rect x='90.86' y='5.48' width='335.66' height='70.47' />
+  </clipPath>
+</defs>
+<g clip-path='url(#cpOTAuODZ8NDI2LjUyfDUuNDh8NzUuOTU=)'>
+<polyline points='106.12,75.95 106.12,5.48 ' style='stroke-width: 1.07; stroke: #EBEBEB; stroke-linecap: butt;' />
+<polyline points='182.40,75.95 182.40,5.48 ' style='stroke-width: 1.07; stroke: #EBEBEB; stroke-linecap: butt;' />
+<polyline points='258.69,75.95 258.69,5.48 ' style='stroke-width: 1.07; stroke: #EBEBEB; stroke-linecap: butt;' />
+<polyline points='334.98,75.95 334.98,5.48 ' style='stroke-width: 1.07; stroke: #EBEBEB; stroke-linecap: butt;' />
+<polyline points='411.26,75.95 411.26,5.48 ' style='stroke-width: 1.07; stroke: #EBEBEB; stroke-linecap: butt;' />
+<circle cx='211.20' cy='56.73' r='4.09' style='stroke-width: 0.71; fill: #000000;' />
+<circle cx='141.28' cy='56.73' r='4.09' style='stroke-width: 0.71; stroke: #ECB862; fill: #ECB862;' />
+<circle cx='353.18' cy='56.73' r='4.09' style='stroke-width: 0.71; stroke: #E38474; fill: #E38474;' />
+<circle cx='261.20' cy='24.70' r='4.09' style='stroke-width: 0.71; fill: #000000;' />
+<circle cx='141.64' cy='24.70' r='4.09' style='stroke-width: 0.71; stroke: #ECB862; fill: #ECB862;' />
+<circle cx='354.35' cy='24.70' r='4.09' style='stroke-width: 0.71; stroke: #E38474; fill: #E38474;' />
+<text x='258.16' y='15.74' style='font-size: 10.81px;fill: #333333; font-family: "Liberation Sans";' textLength='30.38px' lengthAdjust='spacingAndGlyphs'>Česko</text>
+<text x='136.84' y='15.74' style='font-size: 10.81px;fill: #333333; font-family: "Liberation Sans";' textLength='47.97px' lengthAdjust='spacingAndGlyphs'>Německo</text>
+<text x='351.02' y='15.74' style='font-size: 10.81px;fill: #333333; font-family: "Liberation Sans";' textLength='33.31px' lengthAdjust='spacingAndGlyphs'>Polsko</text>
+</g>
+<g clip-path='url(#cpMC4wMHw0MzIuMDB8MC4wMHwxMDguMDA=)'>
+<text x='85.93' y='59.87' text-anchor='end' style='font-size: 8.80px;fill: #4D4D4D; font-family: "Liberation Sans";' textLength='63.03px' lengthAdjust='spacingAndGlyphs'>Rychlejší rozvoj</text>
+<text x='85.93' y='27.84' text-anchor='end' style='font-size: 8.80px;fill: #4D4D4D; font-family: "Liberation Sans";' textLength='67.21px' lengthAdjust='spacingAndGlyphs'>Pomalejší rozvoj</text>
+<text x='106.12' y='87.17' text-anchor='middle' style='font-size: 8.80px;fill: #4D4D4D; font-family: "Liberation Sans";' textLength='10.07px' lengthAdjust='spacingAndGlyphs'>80</text>
+<text x='182.40' y='87.17' text-anchor='middle' style='font-size: 8.80px;fill: #4D4D4D; font-family: "Liberation Sans";' textLength='10.07px' lengthAdjust='spacingAndGlyphs'>90</text>
+<text x='258.69' y='87.17' text-anchor='middle' style='font-size: 8.80px;fill: #4D4D4D; font-family: "Liberation Sans";' textLength='15.10px' lengthAdjust='spacingAndGlyphs'>100</text>
+<text x='334.98' y='87.17' text-anchor='middle' style='font-size: 8.80px;fill: #4D4D4D; font-family: "Liberation Sans";' textLength='15.10px' lengthAdjust='spacingAndGlyphs'>110</text>
+<text x='411.26' y='87.17' text-anchor='middle' style='font-size: 8.80px;fill: #4D4D4D; font-family: "Liberation Sans";' textLength='15.10px' lengthAdjust='spacingAndGlyphs'>120</text>
+<text x='258.69' y='99.88' text-anchor='middle' style='font-size: 11.00px; font-family: "Liberation Sans";' textLength='173.89px' lengthAdjust='spacingAndGlyphs'>Průměrná cena elektřiny (€/MWh)</text>
+<text transform='translate(13.33,40.71) rotate(-90)' text-anchor='middle' style='font-size: 11.00px; font-family: "Liberation Sans";' textLength='35.04px' lengthAdjust='spacingAndGlyphs'>Scénář</text>
+</g>
+</svg>
